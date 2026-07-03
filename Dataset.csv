@@ -1,0 +1,2001 @@
+Employee_ID,Department,Salary,Experience,Gender,Attrition,Performance,Education
+EMP0001,Operations,573820,19,Male,No,Low,High School
+EMP0002,Sales,751998,4,Female,Yes,Average,Bachalor's
+EMP0003,IT,683207,15,Female,Yes,Low,Master's
+EMP0004,Sales,1069952,22,Female,Yes,Low,Diploma
+EMP0005,Sales,736869,21,Male,No,Average,Bachalor's
+EMP0006,IT,583970,20,Female,Yes,Low,Diploma
+EMP0007,IT,1094252,25,Female,No,High,PhD
+EMP0008,Operations,573512,7,Male,No,Average,Diploma
+EMP0009,HR,760124,6,Female,Yes,Average,PhD
+EMP0010,Sales,940726,7,Female,Yes,Low,High School
+EMP0011,Sales,539502,16,Male,Yes,Low,Master's
+EMP0012,Marketing,115266,5,Female,No,Low,PhD
+EMP0013,HR,316572,23,Female,No,Low,Master's
+EMP0014,Marketing,921503,8,Male,Yes,Excellent,Diploma
+EMP0015,HR,1016309,19,Male,Yes,Low,High School
+EMP0016,IT,655374,13,Male,Yes,Low,Bachalor's
+EMP0017,Marketing,1150131,1,Female,No,Low,High School
+EMP0018,Marketing,131737,4,Female,Yes,Low,Diploma
+EMP0019,Marketing,868131,25,Female,Yes,Low,Diploma
+EMP0020,HR,484599,11,Male,Yes,High,Bachalor's
+EMP0021,Operations,816167,0,Male,Yes,Low,PhD
+EMP0022,Operations,826275,25,Female,Yes,Average,Diploma
+EMP0023,IT,68816,11,Male,No,Average,Bachalor's
+EMP0024,Finance,80816,4,Male,Yes,Excellent,High School
+EMP0025,IT,1185382,18,Female,Yes,Excellent,Diploma
+EMP0026,Finance,657049,10,Female,Yes,High,Master's
+EMP0027,Sales,364135,19,Female,No,Average,Diploma
+EMP0028,HR,199485,2,Male,Yes,High,PhD
+EMP0029,Operations,1125057,13,Female,No,Low,Diploma
+EMP0030,IT,276206,9,Female,No,High,High School
+EMP0031,HR,629808,22,Female,No,Excellent,Master's
+EMP0032,Finance,103865,14,Female,No,Excellent,Diploma
+EMP0033,IT,535244,16,Female,Yes,High,Bachalor's
+EMP0034,Operations,262174,12,Female,No,Excellent,Diploma
+EMP0035,HR,1141245,2,Male,No,Excellent,High School
+EMP0036,HR,35752,4,Female,No,Average,PhD
+EMP0037,Finance,176142,8,Male,Yes,Average,Bachalor's
+EMP0038,HR,1002813,5,Male,No,Low,High School
+EMP0039,Marketing,507985,6,Female,No,Excellent,High School
+EMP0040,HR,1140761,9,Female,Yes,Average,Diploma
+EMP0041,Marketing,393524,0,Male,No,Average,Master's
+EMP0042,Operations,795870,12,Female,No,High,High School
+EMP0043,Finance,805858,5,Female,No,Excellent,PhD
+EMP0044,Marketing,540479,23,Female,No,Low,PhD
+EMP0045,Finance,57904,16,Female,No,Excellent,Diploma
+EMP0046,Operations,513951,5,Male,No,Excellent,Diploma
+EMP0047,HR,877130,13,Female,Yes,High,Bachalor's
+EMP0048,Marketing,836657,23,Male,No,High,Master's
+EMP0049,HR,425185,3,Female,No,Average,PhD
+EMP0050,Sales,1106282,18,Male,No,High,High School
+EMP0051,Sales,428842,25,Male,No,Average,Diploma
+EMP0052,Sales,634206,9,Male,Yes,Excellent,High School
+EMP0053,HR,408739,10,Female,Yes,Low,PhD
+EMP0054,IT,494325,10,Male,No,Excellent,Bachalor's
+EMP0055,Finance,465399,25,Female,No,Low,PhD
+EMP0056,IT,977894,14,Male,Yes,Excellent,High School
+EMP0057,Finance,619045,2,Female,Yes,High,Diploma
+EMP0058,Finance,568984,9,Male,No,Average,PhD
+EMP0059,Finance,259548,7,Female,Yes,High,High School
+EMP0060,IT,1134996,21,Male,No,Low,Diploma
+EMP0061,IT,579880,4,Male,No,Excellent,High School
+EMP0062,Operations,1146441,6,Male,Yes,Excellent,Diploma
+EMP0063,HR,477204,3,Female,No,High,Master's
+EMP0064,HR,1163008,15,Male,Yes,Excellent,High School
+EMP0065,Operations,593424,5,Male,Yes,Excellent,High School
+EMP0066,Marketing,299359,10,Female,Yes,Excellent,Diploma
+EMP0067,Finance,119847,23,Female,Yes,Average,Master's
+EMP0068,Operations,1061521,12,Male,No,Low,PhD
+EMP0069,Finance,429821,24,Female,No,Low,Bachalor's
+EMP0070,IT,1165619,12,Male,Yes,High,Master's
+EMP0071,Sales,613534,6,Male,Yes,Average,Bachalor's
+EMP0072,IT,1177624,5,Male,Yes,Low,Bachalor's
+EMP0073,Marketing,845814,18,Male,No,High,Master's
+EMP0074,Marketing,144728,10,Male,Yes,Excellent,Bachalor's
+EMP0075,IT,849037,7,Male,Yes,High,Diploma
+EMP0076,Marketing,1033451,3,Male,Yes,Low,Bachalor's
+EMP0077,Finance,1182635,19,Male,No,Average,Diploma
+EMP0078,Finance,546042,9,Male,Yes,High,Bachalor's
+EMP0079,Marketing,363761,18,Female,Yes,Average,Diploma
+EMP0080,HR,913265,24,Female,No,High,Master's
+EMP0081,HR,333444,5,Male,No,Low,Bachalor's
+EMP0082,IT,1168615,12,Male,No,Average,Diploma
+EMP0083,Sales,300710,2,Male,No,Average,Bachalor's
+EMP0084,Finance,1018695,17,Male,No,High,Master's
+EMP0085,Finance,184001,12,Female,Yes,Low,Diploma
+EMP0086,HR,910174,25,Female,Yes,Low,Diploma
+EMP0087,Sales,821265,6,Male,Yes,High,Master's
+EMP0088,Marketing,504808,4,Male,No,Low,Diploma
+EMP0089,Finance,530728,19,Female,No,Excellent,High School
+EMP0090,Marketing,219440,13,Male,No,Excellent,PhD
+EMP0091,Marketing,749927,12,Female,Yes,High,PhD
+EMP0092,Marketing,330803,10,Male,No,High,PhD
+EMP0093,IT,825803,9,Male,Yes,High,PhD
+EMP0094,Marketing,98915,17,Male,Yes,Low,Bachalor's
+EMP0095,Finance,1162138,21,Male,Yes,Average,PhD
+EMP0096,Finance,920634,24,Female,Yes,Average,High School
+EMP0097,Operations,26775,11,Female,No,Average,Master's
+EMP0098,Marketing,1029496,13,Male,Yes,Average,Bachalor's
+EMP0099,Finance,641703,7,Male,No,Excellent,Diploma
+EMP0100,Finance,1078805,16,Female,Yes,Excellent,High School
+EMP0101,HR,136814,0,Female,Yes,Low,High School
+EMP0102,Operations,77669,24,Female,Yes,Average,PhD
+EMP0103,HR,342343,4,Male,No,Average,High School
+EMP0104,Operations,1194439,1,Female,Yes,High,Diploma
+EMP0105,HR,1168242,15,Male,No,High,PhD
+EMP0106,Operations,630865,0,Female,No,Low,High School
+EMP0107,Marketing,710645,7,Female,Yes,High,PhD
+EMP0108,IT,447171,3,Male,No,Low,High School
+EMP0109,Operations,891047,16,Male,Yes,Low,Master's
+EMP0110,IT,784152,12,Male,Yes,Excellent,PhD
+EMP0111,IT,259664,2,Male,No,Low,High School
+EMP0112,Operations,1118498,18,Female,No,Excellent,PhD
+EMP0113,Finance,1155309,21,Female,Yes,Low,Diploma
+EMP0114,Finance,977877,11,Male,No,Average,PhD
+EMP0115,HR,855767,17,Female,Yes,Excellent,PhD
+EMP0116,Operations,427598,19,Male,No,High,Bachalor's
+EMP0117,Finance,502363,15,Male,No,High,High School
+EMP0118,Sales,959485,9,Female,Yes,Excellent,Master's
+EMP0119,IT,543068,2,Male,Yes,Excellent,High School
+EMP0120,Operations,517018,0,Female,No,Average,High School
+EMP0121,Sales,784988,14,Male,Yes,Excellent,Master's
+EMP0122,Finance,933005,14,Male,No,Low,Master's
+EMP0123,HR,682983,14,Male,Yes,Average,Master's
+EMP0124,Finance,690415,5,Male,No,Average,PhD
+EMP0125,Finance,426532,7,Male,No,Low,Master's
+EMP0126,Operations,246306,11,Male,Yes,Low,Bachalor's
+EMP0127,Operations,421850,12,Male,Yes,Excellent,Master's
+EMP0128,Operations,579101,17,Male,Yes,Average,Bachalor's
+EMP0129,Sales,1195410,7,Female,No,Average,Master's
+EMP0130,IT,368052,14,Male,Yes,Average,High School
+EMP0131,HR,947314,4,Male,Yes,Low,PhD
+EMP0132,Marketing,207841,2,Male,Yes,Average,High School
+EMP0133,Finance,186748,20,Female,No,Excellent,PhD
+EMP0134,Sales,1155079,11,Female,No,Average,Master's
+EMP0135,Finance,563021,1,Female,Yes,Average,Diploma
+EMP0136,Sales,765668,4,Female,No,Average,Master's
+EMP0137,Finance,1197353,19,Female,Yes,Low,Master's
+EMP0138,Finance,226970,1,Male,No,Average,Master's
+EMP0139,IT,411315,3,Female,No,Low,Diploma
+EMP0140,Sales,860950,7,Female,Yes,High,High School
+EMP0141,Marketing,795038,0,Female,Yes,High,PhD
+EMP0142,IT,292424,11,Male,No,High,Diploma
+EMP0143,Marketing,356173,7,Male,No,High,PhD
+EMP0144,HR,236424,19,Female,No,High,Master's
+EMP0145,Finance,1124745,5,Male,Yes,Average,High School
+EMP0146,Operations,142249,9,Female,No,Average,Master's
+EMP0147,Marketing,751400,13,Male,No,High,Bachalor's
+EMP0148,IT,1053243,4,Male,Yes,Excellent,Master's
+EMP0149,Finance,65968,6,Male,No,Average,Bachalor's
+EMP0150,IT,664233,18,Female,Yes,High,PhD
+EMP0151,Sales,388331,15,Female,Yes,High,Diploma
+EMP0152,Operations,714672,23,Male,Yes,High,Master's
+EMP0153,Sales,687717,14,Female,Yes,High,Master's
+EMP0154,Sales,752651,1,Male,No,Low,Master's
+EMP0155,Sales,232461,14,Male,No,High,Bachalor's
+EMP0156,Operations,427203,25,Female,Yes,High,High School
+EMP0157,HR,894916,0,Male,No,Average,High School
+EMP0158,Operations,1020155,24,Female,No,Low,Diploma
+EMP0159,Marketing,96386,19,Male,Yes,Excellent,Diploma
+EMP0160,Sales,286453,3,Female,Yes,Excellent,High School
+EMP0161,Operations,769287,24,Male,Yes,Low,Master's
+EMP0162,IT,286026,15,Female,Yes,Low,Bachalor's
+EMP0163,HR,824236,24,Female,Yes,Average,Diploma
+EMP0164,IT,591980,16,Female,Yes,High,Bachalor's
+EMP0165,Marketing,769683,24,Female,Yes,Excellent,Bachalor's
+EMP0166,IT,955718,21,Male,Yes,Low,Diploma
+EMP0167,Marketing,999743,25,Male,No,High,Master's
+EMP0168,Marketing,1086730,13,Male,No,High,Diploma
+EMP0169,Marketing,383980,17,Female,Yes,Excellent,Diploma
+EMP0170,Sales,62373,15,Male,Yes,Excellent,PhD
+EMP0171,HR,741190,21,Male,Yes,Low,Bachalor's
+EMP0172,Sales,841801,1,Female,No,Excellent,Bachalor's
+EMP0173,Sales,168907,1,Male,No,Low,Master's
+EMP0174,Finance,572267,11,Female,No,Excellent,PhD
+EMP0175,IT,750855,17,Female,No,Average,High School
+EMP0176,Finance,1105883,21,Female,Yes,Excellent,Diploma
+EMP0177,IT,596911,1,Male,No,Excellent,Master's
+EMP0178,HR,1137506,6,Female,Yes,High,PhD
+EMP0179,Operations,653892,16,Female,No,Average,Bachalor's
+EMP0180,Operations,783653,2,Female,No,Average,Bachalor's
+EMP0181,IT,332467,10,Male,Yes,Average,Master's
+EMP0182,IT,224452,6,Female,No,High,High School
+EMP0183,Marketing,59998,21,Male,Yes,Excellent,Master's
+EMP0184,Finance,749151,6,Female,No,Excellent,PhD
+EMP0185,Finance,118893,3,Male,Yes,Average,Diploma
+EMP0186,Marketing,640656,16,Female,No,Low,Bachalor's
+EMP0187,HR,344974,18,Female,Yes,High,PhD
+EMP0188,Finance,417081,7,Male,Yes,Average,High School
+EMP0189,IT,342005,12,Female,No,Average,Master's
+EMP0190,Operations,305059,24,Male,No,Average,Master's
+EMP0191,Sales,351731,15,Male,No,Average,Diploma
+EMP0192,Finance,197781,1,Male,Yes,Excellent,Master's
+EMP0193,HR,758481,11,Male,No,High,Master's
+EMP0194,Finance,348791,21,Male,No,Low,PhD
+EMP0195,Sales,284094,14,Male,Yes,Average,High School
+EMP0196,IT,682653,25,Male,No,High,High School
+EMP0197,HR,105301,8,Female,No,High,High School
+EMP0198,Finance,1046978,19,Female,Yes,Excellent,PhD
+EMP0199,Marketing,920833,22,Male,No,Average,PhD
+EMP0200,Finance,544648,19,Female,No,Low,Bachalor's
+EMP0201,Operations,677843,7,Male,No,High,PhD
+EMP0202,HR,95738,6,Female,No,High,Diploma
+EMP0203,Finance,810320,21,Male,Yes,Excellent,Master's
+EMP0204,Marketing,732503,3,Male,Yes,Excellent,Diploma
+EMP0205,Marketing,781415,5,Male,No,Excellent,PhD
+EMP0206,HR,96956,0,Female,Yes,Low,Diploma
+EMP0207,Operations,331157,16,Male,No,Average,High School
+EMP0208,Operations,1131024,9,Male,Yes,Low,Master's
+EMP0209,Sales,158354,24,Male,No,Average,Bachalor's
+EMP0210,HR,582476,10,Female,No,Low,PhD
+EMP0211,Marketing,155888,6,Female,Yes,Excellent,Diploma
+EMP0212,IT,1064624,25,Female,Yes,Excellent,High School
+EMP0213,HR,778188,13,Male,No,Excellent,Master's
+EMP0214,Marketing,475775,2,Male,No,Low,Bachalor's
+EMP0215,Sales,974280,1,Female,No,High,High School
+EMP0216,Operations,757964,8,Male,No,Average,Diploma
+EMP0217,Marketing,1050203,1,Female,Yes,Excellent,Master's
+EMP0218,HR,826080,10,Female,No,Average,PhD
+EMP0219,Finance,1164267,13,Male,No,Low,High School
+EMP0220,HR,721356,15,Male,No,Average,High School
+EMP0221,IT,549372,2,Female,Yes,Low,Diploma
+EMP0222,Operations,1021926,4,Male,No,Average,Master's
+EMP0223,Finance,599980,21,Female,Yes,Low,Diploma
+EMP0224,IT,574417,0,Female,Yes,Average,Master's
+EMP0225,IT,466647,13,Female,No,Average,PhD
+EMP0226,Marketing,465915,10,Female,Yes,Low,Bachalor's
+EMP0227,Operations,301961,20,Female,Yes,Average,Diploma
+EMP0228,Sales,1147033,18,Female,No,Excellent,Master's
+EMP0229,Sales,732454,22,Male,Yes,Average,Diploma
+EMP0230,Finance,1103401,23,Female,No,High,High School
+EMP0231,Finance,862941,20,Male,No,Excellent,Diploma
+EMP0232,Marketing,607005,20,Female,No,Excellent,High School
+EMP0233,Finance,155175,12,Female,Yes,High,PhD
+EMP0234,IT,435149,5,Male,No,Low,PhD
+EMP0235,Operations,1106760,22,Male,No,Low,Diploma
+EMP0236,IT,261300,12,Female,Yes,Excellent,High School
+EMP0237,Sales,945388,24,Female,No,Excellent,High School
+EMP0238,Finance,423686,22,Female,Yes,Average,Diploma
+EMP0239,Operations,629831,1,Male,No,Excellent,Diploma
+EMP0240,Finance,113768,10,Female,No,High,Bachalor's
+EMP0241,Finance,878200,16,Female,Yes,High,PhD
+EMP0242,Sales,871473,3,Male,No,High,PhD
+EMP0243,IT,662888,15,Male,No,Excellent,Diploma
+EMP0244,Sales,483107,7,Female,No,Average,Bachalor's
+EMP0245,Finance,838470,12,Male,No,Excellent,PhD
+EMP0246,Marketing,564775,12,Female,No,Average,High School
+EMP0247,HR,414018,8,Female,Yes,High,PhD
+EMP0248,Marketing,659321,15,Male,Yes,Average,Diploma
+EMP0249,Sales,105130,1,Female,Yes,High,Bachalor's
+EMP0250,IT,206169,6,Male,Yes,Excellent,Master's
+EMP0251,IT,521859,4,Female,Yes,Low,Bachalor's
+EMP0252,Sales,596119,10,Male,Yes,Low,PhD
+EMP0253,IT,660221,20,Female,No,High,Bachalor's
+EMP0254,IT,642425,5,Female,Yes,Low,Master's
+EMP0255,Sales,827349,2,Male,Yes,High,Master's
+EMP0256,Finance,505664,24,Male,No,High,Master's
+EMP0257,Marketing,47994,11,Female,Yes,Low,High School
+EMP0258,Marketing,290622,7,Male,Yes,Excellent,Diploma
+EMP0259,IT,463466,10,Male,Yes,Excellent,PhD
+EMP0260,IT,604792,6,Female,No,Low,Bachalor's
+EMP0261,Finance,1136578,22,Male,No,High,PhD
+EMP0262,Finance,861936,10,Female,No,High,High School
+EMP0263,Finance,234076,13,Male,No,Excellent,High School
+EMP0264,Operations,642062,22,Male,No,Low,PhD
+EMP0265,HR,479894,14,Male,No,Excellent,High School
+EMP0266,Sales,89360,0,Female,No,Excellent,High School
+EMP0267,Marketing,145396,0,Female,Yes,Excellent,Diploma
+EMP0268,HR,654210,17,Female,Yes,High,High School
+EMP0269,Finance,120497,7,Male,No,Excellent,Master's
+EMP0270,Finance,363996,16,Male,Yes,High,High School
+EMP0271,IT,734064,15,Female,Yes,High,Master's
+EMP0272,Marketing,358284,17,Male,Yes,Average,Bachalor's
+EMP0273,Finance,749292,7,Female,No,Low,Diploma
+EMP0274,Operations,897450,12,Male,Yes,Low,Bachalor's
+EMP0275,Finance,559367,22,Female,Yes,Low,PhD
+EMP0276,HR,78237,12,Female,No,Low,PhD
+EMP0277,Sales,943044,15,Male,Yes,High,Master's
+EMP0278,Finance,1115755,12,Male,No,Low,High School
+EMP0279,Operations,98902,15,Male,No,Low,Master's
+EMP0280,Sales,435269,3,Male,No,Low,PhD
+EMP0281,Operations,815511,24,Female,No,Low,Master's
+EMP0282,Marketing,953783,16,Female,Yes,Low,Master's
+EMP0283,HR,507329,4,Male,No,Average,PhD
+EMP0284,HR,60073,20,Female,Yes,Low,Diploma
+EMP0285,Sales,626297,15,Female,No,High,Diploma
+EMP0286,Marketing,1124991,17,Male,Yes,Excellent,Master's
+EMP0287,Finance,590246,19,Female,Yes,Low,PhD
+EMP0288,Operations,341086,19,Female,Yes,High,Bachalor's
+EMP0289,Finance,158263,11,Male,Yes,Excellent,Master's
+EMP0290,HR,721861,22,Male,Yes,Excellent,Bachalor's
+EMP0291,Finance,653872,19,Female,No,High,PhD
+EMP0292,HR,459850,7,Male,No,Excellent,PhD
+EMP0293,HR,530306,24,Male,No,High,High School
+EMP0294,Operations,167993,7,Male,Yes,Average,Master's
+EMP0295,Finance,449429,9,Female,No,Average,Diploma
+EMP0296,Operations,323204,15,Male,Yes,Average,Master's
+EMP0297,Operations,594423,19,Male,Yes,High,Master's
+EMP0298,Sales,897445,12,Female,No,High,Master's
+EMP0299,Marketing,1101082,18,Male,No,Low,PhD
+EMP0300,Sales,832178,9,Female,Yes,Excellent,PhD
+EMP0301,Marketing,357649,6,Female,Yes,High,Bachalor's
+EMP0302,HR,764577,16,Male,Yes,Low,PhD
+EMP0303,IT,814083,16,Male,No,High,Master's
+EMP0304,Marketing,881597,17,Male,No,High,PhD
+EMP0305,Finance,470611,9,Male,Yes,Average,PhD
+EMP0306,Operations,78428,11,Female,No,High,High School
+EMP0307,Marketing,495165,20,Male,Yes,Low,High School
+EMP0308,Sales,50168,19,Female,No,Excellent,High School
+EMP0309,Sales,858906,3,Female,No,Average,PhD
+EMP0310,Sales,1048753,4,Female,Yes,Average,Diploma
+EMP0311,Operations,1023085,15,Male,No,Excellent,Master's
+EMP0312,IT,314641,8,Male,No,Low,Bachalor's
+EMP0313,Marketing,1104125,22,Female,No,Average,Diploma
+EMP0314,IT,763248,12,Female,No,Low,Diploma
+EMP0315,Operations,928659,21,Male,Yes,Low,Master's
+EMP0316,IT,354294,22,Male,No,Average,Diploma
+EMP0317,Sales,549525,23,Female,No,Average,Bachalor's
+EMP0318,Operations,443383,2,Female,Yes,Excellent,Bachalor's
+EMP0319,Sales,865082,23,Male,Yes,Average,Master's
+EMP0320,IT,1127556,5,Male,Yes,Low,High School
+EMP0321,Sales,1063442,22,Male,Yes,High,Diploma
+EMP0322,Finance,316440,22,Male,No,Low,Diploma
+EMP0323,HR,1191393,8,Female,No,Average,Bachalor's
+EMP0324,Operations,708463,12,Male,No,High,High School
+EMP0325,HR,415960,19,Male,No,Low,High School
+EMP0326,Finance,948273,16,Male,No,High,PhD
+EMP0327,Finance,137922,17,Female,Yes,Low,Bachalor's
+EMP0328,Sales,280482,18,Female,Yes,High,Bachalor's
+EMP0329,HR,182295,24,Female,Yes,High,PhD
+EMP0330,Marketing,465960,14,Male,Yes,Average,PhD
+EMP0331,Marketing,615671,19,Female,No,Excellent,Bachalor's
+EMP0332,Sales,1132891,7,Male,Yes,Low,PhD
+EMP0333,Operations,1098314,17,Female,No,Excellent,Bachalor's
+EMP0334,Sales,577697,2,Male,Yes,Excellent,Bachalor's
+EMP0335,Operations,208108,22,Male,Yes,Excellent,Bachalor's
+EMP0336,Marketing,1087781,3,Female,No,High,Diploma
+EMP0337,Finance,752809,13,Male,Yes,High,PhD
+EMP0338,IT,1078781,11,Male,No,Low,High School
+EMP0339,Operations,1090622,2,Male,Yes,Low,Bachalor's
+EMP0340,Operations,182907,14,Male,No,Excellent,Diploma
+EMP0341,Operations,610263,14,Male,No,Low,High School
+EMP0342,Marketing,907861,8,Female,Yes,Average,High School
+EMP0343,IT,63065,3,Female,Yes,Average,Master's
+EMP0344,HR,578221,8,Female,Yes,High,Master's
+EMP0345,IT,735685,18,Male,No,Excellent,PhD
+EMP0346,Operations,1013673,9,Male,No,Excellent,Diploma
+EMP0347,Marketing,36698,4,Male,Yes,High,PhD
+EMP0348,IT,845433,2,Female,No,Low,Bachalor's
+EMP0349,HR,745772,7,Female,No,Average,PhD
+EMP0350,Marketing,574772,22,Male,Yes,High,Master's
+EMP0351,HR,902192,9,Female,Yes,Low,Master's
+EMP0352,HR,1022856,8,Male,No,Average,PhD
+EMP0353,Sales,254569,23,Male,Yes,Average,Diploma
+EMP0354,Operations,597591,9,Female,No,Average,High School
+EMP0355,HR,419972,1,Female,Yes,High,Bachalor's
+EMP0356,Operations,300948,19,Female,Yes,High,Diploma
+EMP0357,Marketing,541188,14,Male,Yes,Excellent,Bachalor's
+EMP0358,IT,1092271,3,Male,Yes,High,Bachalor's
+EMP0359,Finance,528748,24,Male,Yes,Excellent,Diploma
+EMP0360,IT,56337,15,Male,No,Excellent,Diploma
+EMP0361,Finance,1084262,20,Female,No,Excellent,Diploma
+EMP0362,HR,884735,1,Male,Yes,High,Diploma
+EMP0363,IT,257839,19,Female,Yes,Low,Bachalor's
+EMP0364,HR,934370,13,Male,No,High,Diploma
+EMP0365,Sales,958844,22,Female,Yes,Excellent,Bachalor's
+EMP0366,Sales,332054,20,Male,No,Average,PhD
+EMP0367,IT,757457,16,Female,No,Low,Bachalor's
+EMP0368,Marketing,287498,23,Female,Yes,High,Master's
+EMP0369,Operations,932581,9,Male,No,High,Diploma
+EMP0370,Marketing,163826,7,Male,No,High,Bachalor's
+EMP0371,Sales,684999,15,Male,No,Average,PhD
+EMP0372,Finance,1022451,11,Male,Yes,Excellent,Master's
+EMP0373,IT,40611,7,Female,No,High,PhD
+EMP0374,Sales,821697,5,Male,No,Average,Bachalor's
+EMP0375,Operations,1198504,15,Male,No,Average,High School
+EMP0376,Sales,972771,12,Female,Yes,Excellent,PhD
+EMP0377,Marketing,218769,0,Male,No,High,Bachalor's
+EMP0378,Operations,1021473,1,Male,Yes,Low,Diploma
+EMP0379,Sales,810698,23,Male,Yes,Average,High School
+EMP0380,Sales,648548,2,Female,No,Low,Diploma
+EMP0381,Sales,103217,12,Female,Yes,High,Bachalor's
+EMP0382,Operations,1152796,19,Female,Yes,High,Bachalor's
+EMP0383,IT,1024380,22,Female,Yes,Average,PhD
+EMP0384,Sales,975373,11,Male,Yes,Low,Master's
+EMP0385,HR,421335,15,Female,No,Excellent,PhD
+EMP0386,HR,59849,5,Female,Yes,Average,Diploma
+EMP0387,Operations,668995,21,Male,No,Low,Bachalor's
+EMP0388,Operations,806475,22,Female,No,Low,High School
+EMP0389,HR,580384,0,Female,Yes,Low,Bachalor's
+EMP0390,HR,1182224,19,Female,No,Low,Bachalor's
+EMP0391,IT,947270,4,Female,No,Low,PhD
+EMP0392,Operations,739411,6,Female,Yes,Excellent,High School
+EMP0393,HR,1138012,7,Female,No,Low,Master's
+EMP0394,Marketing,398623,21,Female,No,High,Bachalor's
+EMP0395,IT,657042,0,Female,Yes,Excellent,Master's
+EMP0396,Marketing,814373,8,Male,Yes,High,Bachalor's
+EMP0397,Operations,231837,9,Female,Yes,Excellent,Bachalor's
+EMP0398,Marketing,473487,18,Male,No,Low,PhD
+EMP0399,Sales,59014,0,Male,No,Excellent,Diploma
+EMP0400,IT,815539,23,Male,Yes,High,High School
+EMP0401,HR,175389,13,Female,No,Average,Diploma
+EMP0402,Marketing,903798,11,Male,No,High,Master's
+EMP0403,HR,732570,14,Female,Yes,Excellent,Bachalor's
+EMP0404,HR,1155486,5,Female,Yes,High,Diploma
+EMP0405,HR,536368,20,Female,No,Average,Master's
+EMP0406,HR,59967,5,Female,No,High,High School
+EMP0407,Finance,53371,14,Male,Yes,High,High School
+EMP0408,Sales,31561,1,Female,No,Average,Diploma
+EMP0409,Finance,959439,9,Female,Yes,Excellent,Bachalor's
+EMP0410,Sales,1042075,1,Female,No,Excellent,Master's
+EMP0411,HR,690080,20,Male,No,Low,Bachalor's
+EMP0412,Sales,55322,15,Female,Yes,Low,Bachalor's
+EMP0413,Marketing,1087612,16,Male,No,Excellent,Diploma
+EMP0414,Finance,186300,9,Female,Yes,Excellent,High School
+EMP0415,Operations,1124683,3,Female,Yes,Average,Master's
+EMP0416,Sales,154324,2,Female,Yes,Average,PhD
+EMP0417,HR,818989,2,Male,No,Excellent,High School
+EMP0418,HR,82880,3,Female,No,High,Master's
+EMP0419,Operations,897706,22,Female,Yes,High,Diploma
+EMP0420,Finance,445066,3,Female,No,Excellent,High School
+EMP0421,HR,555514,8,Female,Yes,Low,Bachalor's
+EMP0422,Sales,592898,9,Female,Yes,Low,High School
+EMP0423,Marketing,726532,12,Female,No,Excellent,Master's
+EMP0424,Marketing,684812,22,Female,Yes,Average,PhD
+EMP0425,Operations,492012,20,Female,Yes,Low,PhD
+EMP0426,HR,607937,14,Male,No,Excellent,High School
+EMP0427,HR,418731,16,Female,No,High,Diploma
+EMP0428,Operations,857466,8,Female,No,Average,Master's
+EMP0429,Finance,595855,5,Male,Yes,High,Master's
+EMP0430,Finance,206876,0,Female,No,Average,High School
+EMP0431,Marketing,143222,7,Female,No,Low,PhD
+EMP0432,Finance,997354,8,Female,Yes,Average,PhD
+EMP0433,Marketing,497346,23,Male,Yes,High,Master's
+EMP0434,Sales,803270,10,Female,No,Excellent,Master's
+EMP0435,HR,757501,25,Female,Yes,Excellent,Diploma
+EMP0436,Finance,841490,24,Male,No,Low,Master's
+EMP0437,Operations,503937,23,Male,No,Average,High School
+EMP0438,Operations,550945,18,Male,No,Excellent,High School
+EMP0439,Sales,796305,14,Male,Yes,High,High School
+EMP0440,Finance,1034400,12,Female,Yes,Average,High School
+EMP0441,IT,1138882,14,Male,No,Average,High School
+EMP0442,Sales,710590,23,Male,Yes,Low,PhD
+EMP0443,Finance,139764,7,Male,Yes,Excellent,Diploma
+EMP0444,Sales,306479,5,Male,Yes,Excellent,Bachalor's
+EMP0445,Operations,336047,18,Female,No,Excellent,Master's
+EMP0446,Marketing,293816,17,Female,No,Excellent,Bachalor's
+EMP0447,Sales,982976,24,Male,No,Average,Diploma
+EMP0448,HR,905317,10,Male,Yes,Low,Diploma
+EMP0449,HR,309225,3,Female,No,Average,Diploma
+EMP0450,IT,1153156,18,Male,No,Excellent,High School
+EMP0451,Sales,723817,3,Female,No,Low,Diploma
+EMP0452,IT,357758,10,Female,Yes,Average,PhD
+EMP0453,Finance,358132,17,Male,Yes,Low,High School
+EMP0454,HR,171996,12,Female,Yes,High,Bachalor's
+EMP0455,Marketing,108478,6,Male,No,Low,High School
+EMP0456,Sales,789275,13,Male,No,Low,Bachalor's
+EMP0457,Sales,825721,20,Male,No,High,High School
+EMP0458,HR,938120,1,Female,No,Excellent,Master's
+EMP0459,Sales,366299,4,Male,No,Average,Master's
+EMP0460,Sales,683138,10,Male,Yes,High,Master's
+EMP0461,HR,275790,24,Male,Yes,Average,High School
+EMP0462,IT,580176,2,Male,No,High,Master's
+EMP0463,IT,822527,5,Male,No,High,Diploma
+EMP0464,Operations,170613,14,Female,Yes,High,Bachalor's
+EMP0465,Finance,907564,6,Male,Yes,High,PhD
+EMP0466,IT,137688,9,Female,No,Low,PhD
+EMP0467,IT,343943,11,Female,Yes,High,PhD
+EMP0468,IT,121200,22,Female,Yes,High,Diploma
+EMP0469,Finance,366115,14,Female,No,Average,Diploma
+EMP0470,HR,636560,1,Female,No,Low,High School
+EMP0471,Sales,798350,6,Female,Yes,High,Bachalor's
+EMP0472,HR,728880,20,Female,No,High,PhD
+EMP0473,HR,288943,9,Male,Yes,High,Bachalor's
+EMP0474,Finance,1039611,17,Male,Yes,Average,PhD
+EMP0475,Marketing,109079,1,Male,Yes,High,Diploma
+EMP0476,Finance,939998,2,Male,No,Average,High School
+EMP0477,Finance,1037163,23,Female,Yes,Excellent,Diploma
+EMP0478,HR,64132,18,Male,No,Excellent,High School
+EMP0479,Operations,423397,9,Female,No,Low,Master's
+EMP0480,HR,423978,5,Male,No,Excellent,Bachalor's
+EMP0481,Marketing,805768,15,Male,Yes,Low,High School
+EMP0482,Finance,689911,2,Male,Yes,Low,Bachalor's
+EMP0483,HR,328016,6,Female,No,Average,Bachalor's
+EMP0484,IT,466668,9,Female,No,Average,High School
+EMP0485,Marketing,911429,16,Male,Yes,High,PhD
+EMP0486,IT,557027,19,Male,No,Low,Diploma
+EMP0487,IT,331782,10,Male,Yes,Low,Master's
+EMP0488,Sales,1153109,4,Female,No,Average,Master's
+EMP0489,Sales,722806,16,Female,Yes,Low,Bachalor's
+EMP0490,Operations,982370,19,Female,Yes,High,Diploma
+EMP0491,Marketing,837508,13,Male,Yes,Low,Master's
+EMP0492,HR,365726,4,Male,Yes,Average,Master's
+EMP0493,HR,246554,19,Male,No,Excellent,Bachalor's
+EMP0494,IT,1114347,8,Male,Yes,Low,Bachalor's
+EMP0495,Finance,719213,24,Male,Yes,Low,High School
+EMP0496,Marketing,602966,4,Male,Yes,Excellent,Diploma
+EMP0497,Sales,730446,24,Male,Yes,Average,Bachalor's
+EMP0498,HR,1061027,25,Male,No,Low,Master's
+EMP0499,Finance,458854,23,Female,No,Low,Diploma
+EMP0500,Finance,918018,15,Male,Yes,High,High School
+EMP0501,HR,775322,5,Male,No,Low,PhD
+EMP0502,Sales,1141363,19,Female,No,Excellent,Master's
+EMP0503,IT,731738,16,Male,No,High,Bachalor's
+EMP0504,Finance,923050,21,Male,Yes,High,Master's
+EMP0505,Finance,319401,0,Male,Yes,High,High School
+EMP0506,HR,443488,12,Male,No,High,Master's
+EMP0507,Sales,735339,20,Female,Yes,Average,Bachalor's
+EMP0508,HR,754549,12,Male,Yes,High,High School
+EMP0509,IT,621729,10,Male,Yes,High,Master's
+EMP0510,Sales,1076010,18,Male,No,Average,PhD
+EMP0511,Sales,257815,12,Female,Yes,Low,High School
+EMP0512,Sales,852926,17,Female,Yes,High,Master's
+EMP0513,Marketing,867400,6,Male,Yes,Average,Diploma
+EMP0514,IT,854241,15,Female,No,Average,Bachalor's
+EMP0515,Operations,190250,7,Male,Yes,Low,Diploma
+EMP0516,Finance,847549,14,Female,No,Low,Bachalor's
+EMP0517,Operations,674175,5,Female,Yes,Average,Master's
+EMP0518,Finance,391579,19,Male,Yes,High,Diploma
+EMP0519,Finance,656019,17,Female,Yes,Low,PhD
+EMP0520,HR,466467,12,Female,Yes,Excellent,Bachalor's
+EMP0521,HR,1118605,10,Female,Yes,Average,Master's
+EMP0522,Sales,618397,13,Male,Yes,Excellent,High School
+EMP0523,Operations,53571,0,Male,No,Low,Master's
+EMP0524,Operations,1047056,25,Male,Yes,High,Bachalor's
+EMP0525,Marketing,652819,24,Male,No,Excellent,High School
+EMP0526,Sales,311162,20,Female,Yes,Excellent,High School
+EMP0527,Finance,1084495,9,Female,No,Low,PhD
+EMP0528,IT,479656,24,Female,No,Excellent,High School
+EMP0529,Sales,664544,6,Female,Yes,Average,High School
+EMP0530,Finance,340151,22,Female,Yes,Average,High School
+EMP0531,Sales,330959,4,Female,Yes,Average,Master's
+EMP0532,Marketing,506180,22,Male,No,Low,Master's
+EMP0533,Operations,699577,7,Female,No,Average,PhD
+EMP0534,IT,1112109,17,Female,No,Average,Master's
+EMP0535,Marketing,754606,7,Male,No,Average,PhD
+EMP0536,Operations,551106,23,Male,No,High,Master's
+EMP0537,Finance,836287,16,Male,No,Average,PhD
+EMP0538,Marketing,628883,22,Female,No,Average,High School
+EMP0539,Marketing,317234,24,Female,Yes,Low,Bachalor's
+EMP0540,Finance,528378,3,Male,No,High,Master's
+EMP0541,HR,1048951,18,Male,Yes,High,Diploma
+EMP0542,HR,883589,14,Female,Yes,Low,PhD
+EMP0543,IT,257382,15,Female,Yes,Excellent,PhD
+EMP0544,Operations,119211,24,Female,No,High,PhD
+EMP0545,Sales,48117,24,Male,Yes,High,Bachalor's
+EMP0546,Sales,330425,0,Male,Yes,Low,Bachalor's
+EMP0547,IT,81586,15,Female,Yes,Average,Diploma
+EMP0548,IT,548516,6,Male,No,High,High School
+EMP0549,Operations,749890,18,Female,Yes,Low,Master's
+EMP0550,Operations,419562,25,Female,No,Excellent,Master's
+EMP0551,Marketing,1053904,1,Female,No,Excellent,Diploma
+EMP0552,Sales,372968,25,Male,Yes,Excellent,High School
+EMP0553,Sales,927844,16,Male,Yes,Average,Bachalor's
+EMP0554,Finance,541376,9,Male,Yes,Average,PhD
+EMP0555,Sales,1197811,5,Female,Yes,High,PhD
+EMP0556,Sales,776374,0,Male,No,Low,Master's
+EMP0557,Finance,626591,12,Female,Yes,Excellent,High School
+EMP0558,HR,398681,4,Female,Yes,Average,PhD
+EMP0559,Finance,1132217,6,Female,No,Low,Master's
+EMP0560,Sales,169353,2,Male,Yes,Excellent,Master's
+EMP0561,Marketing,622571,16,Male,No,High,PhD
+EMP0562,Finance,344312,14,Male,Yes,High,Diploma
+EMP0563,HR,889374,24,Female,Yes,Low,High School
+EMP0564,Sales,1046295,2,Female,Yes,Excellent,PhD
+EMP0565,Sales,42099,11,Female,No,Average,PhD
+EMP0566,IT,296434,10,Male,No,Excellent,Diploma
+EMP0567,Sales,1142150,17,Male,Yes,High,Diploma
+EMP0568,Finance,1152512,4,Male,Yes,Low,Bachalor's
+EMP0569,Operations,230258,15,Male,No,Average,PhD
+EMP0570,HR,709554,11,Female,Yes,Low,PhD
+EMP0571,Marketing,874236,10,Female,Yes,Excellent,Diploma
+EMP0572,Sales,996447,6,Male,Yes,High,Diploma
+EMP0573,HR,1021547,6,Female,Yes,Average,PhD
+EMP0574,Finance,1079110,13,Female,Yes,Excellent,Bachalor's
+EMP0575,Sales,261604,21,Female,No,Average,PhD
+EMP0576,Operations,162676,3,Male,Yes,Average,PhD
+EMP0577,IT,556754,25,Female,No,High,Diploma
+EMP0578,IT,1135936,12,Female,No,Average,PhD
+EMP0579,Sales,780960,11,Male,No,High,Diploma
+EMP0580,Marketing,103365,17,Male,No,High,Master's
+EMP0581,Finance,800613,23,Male,Yes,Average,Master's
+EMP0582,Finance,746746,12,Female,No,Excellent,High School
+EMP0583,HR,838235,13,Male,No,High,Bachalor's
+EMP0584,Marketing,122948,7,Male,No,High,High School
+EMP0585,Marketing,384416,10,Female,Yes,Excellent,Diploma
+EMP0586,IT,884378,22,Male,Yes,High,High School
+EMP0587,Operations,1189255,7,Male,Yes,Low,Diploma
+EMP0588,Finance,579895,2,Female,Yes,Excellent,Bachalor's
+EMP0589,Finance,51558,20,Male,No,High,High School
+EMP0590,HR,172407,5,Female,No,Low,Master's
+EMP0591,Operations,1054032,12,Male,No,High,High School
+EMP0592,IT,324229,13,Female,Yes,High,Bachalor's
+EMP0593,Operations,745894,22,Female,No,Excellent,Bachalor's
+EMP0594,Marketing,590802,2,Male,No,Low,Bachalor's
+EMP0595,Sales,830031,8,Female,No,High,PhD
+EMP0596,HR,856491,4,Male,No,Average,Diploma
+EMP0597,Operations,886422,7,Female,Yes,Low,Diploma
+EMP0598,Sales,1004069,10,Female,Yes,High,Bachalor's
+EMP0599,Sales,580069,2,Male,No,Excellent,Diploma
+EMP0600,Sales,546672,15,Female,No,Average,Diploma
+EMP0601,Sales,512222,1,Female,Yes,Low,Master's
+EMP0602,Operations,335142,21,Male,No,Excellent,PhD
+EMP0603,HR,990783,10,Male,Yes,Low,PhD
+EMP0604,Sales,331048,20,Male,No,Excellent,Diploma
+EMP0605,IT,116553,20,Female,No,Excellent,Bachalor's
+EMP0606,Operations,135395,23,Male,Yes,Average,PhD
+EMP0607,Sales,997969,15,Male,No,Excellent,High School
+EMP0608,IT,543449,3,Male,No,Low,Diploma
+EMP0609,Operations,360098,16,Female,No,Average,Master's
+EMP0610,Finance,1065198,0,Female,Yes,High,High School
+EMP0611,Finance,664961,21,Male,No,Low,Master's
+EMP0612,Sales,146412,0,Male,Yes,Low,Bachalor's
+EMP0613,HR,504581,14,Male,Yes,High,Bachalor's
+EMP0614,IT,1142872,14,Female,Yes,Low,PhD
+EMP0615,Operations,1042023,10,Female,No,Low,PhD
+EMP0616,HR,639305,10,Female,Yes,Excellent,Diploma
+EMP0617,Marketing,259224,19,Female,Yes,Excellent,Diploma
+EMP0618,HR,333035,24,Female,No,Average,Master's
+EMP0619,Finance,709924,7,Male,No,Low,High School
+EMP0620,Operations,1100564,20,Male,No,Excellent,Diploma
+EMP0621,Sales,283301,25,Male,Yes,High,PhD
+EMP0622,Finance,561104,0,Female,No,Average,Master's
+EMP0623,HR,667926,2,Male,No,Average,Bachalor's
+EMP0624,Finance,759456,3,Female,No,High,PhD
+EMP0625,Marketing,96080,4,Male,Yes,Excellent,PhD
+EMP0626,Operations,681477,12,Male,Yes,Average,Diploma
+EMP0627,Sales,829824,19,Female,No,Average,High School
+EMP0628,Marketing,517908,11,Male,Yes,Excellent,Diploma
+EMP0629,Operations,680087,7,Female,Yes,Low,Bachalor's
+EMP0630,Finance,141429,20,Male,No,Low,Master's
+EMP0631,Marketing,986684,24,Male,No,Low,High School
+EMP0632,Sales,724018,17,Male,Yes,Low,Diploma
+EMP0633,Marketing,620531,17,Male,No,Average,Master's
+EMP0634,HR,145224,4,Male,Yes,Low,PhD
+EMP0635,Marketing,276010,6,Female,Yes,Average,Diploma
+EMP0636,HR,1157254,1,Female,No,Low,Master's
+EMP0637,Sales,483480,14,Female,Yes,Average,PhD
+EMP0638,Sales,96883,20,Female,No,Excellent,High School
+EMP0639,Sales,422904,5,Male,No,High,Master's
+EMP0640,Finance,991786,22,Female,No,Low,Diploma
+EMP0641,IT,417444,14,Female,Yes,Low,Master's
+EMP0642,HR,384981,10,Male,No,Excellent,PhD
+EMP0643,IT,1051893,16,Male,Yes,Excellent,Diploma
+EMP0644,HR,684677,25,Male,Yes,Low,Bachalor's
+EMP0645,Finance,81131,8,Male,Yes,Average,Master's
+EMP0646,Operations,897667,3,Male,No,High,Diploma
+EMP0647,Sales,189768,21,Male,No,Excellent,Master's
+EMP0648,IT,354443,11,Male,Yes,Low,Bachalor's
+EMP0649,Operations,1112612,7,Female,No,Low,High School
+EMP0650,Sales,132292,21,Female,No,High,Diploma
+EMP0651,HR,924189,1,Male,No,High,High School
+EMP0652,IT,1096663,18,Male,Yes,High,PhD
+EMP0653,Marketing,391253,19,Male,No,High,High School
+EMP0654,Marketing,392500,20,Female,No,Average,Master's
+EMP0655,Finance,1011589,17,Male,Yes,High,Master's
+EMP0656,Sales,701093,19,Male,No,Average,Diploma
+EMP0657,HR,1114779,1,Female,No,Average,High School
+EMP0658,Sales,894153,25,Male,No,Low,Master's
+EMP0659,Operations,439090,21,Female,Yes,High,Master's
+EMP0660,Operations,1013626,23,Female,Yes,High,Diploma
+EMP0661,HR,1189666,10,Female,No,High,Master's
+EMP0662,Finance,734644,18,Female,No,Excellent,High School
+EMP0663,Sales,1007488,14,Female,Yes,Low,Master's
+EMP0664,Sales,1041774,11,Male,No,Excellent,PhD
+EMP0665,Marketing,1167612,3,Female,No,High,Master's
+EMP0666,Sales,879176,5,Female,Yes,Average,Master's
+EMP0667,IT,665164,12,Female,Yes,Low,PhD
+EMP0668,IT,365865,12,Female,No,Excellent,Master's
+EMP0669,Finance,645794,10,Male,Yes,Average,PhD
+EMP0670,HR,299349,16,Male,No,Excellent,PhD
+EMP0671,Operations,861850,1,Male,No,Low,PhD
+EMP0672,Marketing,724873,8,Male,Yes,High,Bachalor's
+EMP0673,HR,582711,12,Female,Yes,High,Bachalor's
+EMP0674,Finance,47223,24,Female,Yes,High,High School
+EMP0675,Marketing,377733,10,Female,Yes,High,PhD
+EMP0676,Sales,998388,0,Male,Yes,Average,Diploma
+EMP0677,IT,816304,8,Female,Yes,Low,PhD
+EMP0678,IT,102165,23,Male,No,Excellent,PhD
+EMP0679,IT,37557,20,Female,Yes,High,Bachalor's
+EMP0680,Sales,1024430,18,Female,No,Excellent,PhD
+EMP0681,HR,1148003,20,Female,Yes,Average,Diploma
+EMP0682,Sales,861033,0,Male,Yes,Excellent,Master's
+EMP0683,Operations,1186463,8,Female,Yes,High,High School
+EMP0684,Operations,926330,1,Female,Yes,Excellent,PhD
+EMP0685,Finance,1046575,12,Female,Yes,Low,Bachalor's
+EMP0686,HR,331920,9,Female,No,Excellent,Master's
+EMP0687,IT,28612,22,Female,No,High,Bachalor's
+EMP0688,Operations,1147181,1,Male,Yes,Average,Diploma
+EMP0689,HR,827063,18,Male,No,Average,Bachalor's
+EMP0690,Sales,625446,23,Female,Yes,Low,PhD
+EMP0691,Finance,541539,17,Female,Yes,High,Diploma
+EMP0692,Operations,651488,23,Female,Yes,Low,Diploma
+EMP0693,Finance,55047,21,Male,Yes,Excellent,High School
+EMP0694,Sales,1179186,17,Male,Yes,Low,High School
+EMP0695,Marketing,101975,11,Female,Yes,Average,PhD
+EMP0696,IT,774660,24,Female,No,Average,PhD
+EMP0697,IT,93736,25,Female,No,Average,High School
+EMP0698,IT,894167,7,Female,Yes,Low,Master's
+EMP0699,Operations,514233,6,Female,Yes,Excellent,Diploma
+EMP0700,Marketing,233834,17,Male,No,Excellent,Bachalor's
+EMP0701,Sales,1160373,4,Female,Yes,Low,Diploma
+EMP0702,Sales,261595,21,Female,Yes,Average,High School
+EMP0703,IT,294762,6,Female,Yes,Excellent,Master's
+EMP0704,Sales,31782,4,Male,Yes,High,Bachalor's
+EMP0705,HR,569606,8,Male,Yes,Average,PhD
+EMP0706,IT,116044,4,Male,Yes,Average,PhD
+EMP0707,Marketing,380865,25,Female,Yes,Low,High School
+EMP0708,HR,602750,12,Female,No,Excellent,Bachalor's
+EMP0709,Sales,1150769,21,Male,Yes,Low,Diploma
+EMP0710,Operations,372630,19,Male,No,Average,Bachalor's
+EMP0711,Finance,990853,17,Male,No,High,High School
+EMP0712,Finance,398099,12,Female,Yes,High,Diploma
+EMP0713,Operations,805500,7,Male,No,Average,Bachalor's
+EMP0714,Marketing,690802,9,Female,Yes,High,High School
+EMP0715,Sales,748485,2,Female,No,Excellent,Bachalor's
+EMP0716,Operations,1002892,4,Female,Yes,Average,Diploma
+EMP0717,Sales,701769,4,Female,No,Average,High School
+EMP0718,Marketing,229370,5,Male,Yes,Excellent,Bachalor's
+EMP0719,Finance,416738,16,Male,Yes,Excellent,Diploma
+EMP0720,Marketing,807832,13,Female,Yes,Average,Master's
+EMP0721,Sales,317926,12,Male,No,Low,Master's
+EMP0722,Operations,328419,2,Male,No,Excellent,Bachalor's
+EMP0723,IT,53033,14,Male,No,Low,Bachalor's
+EMP0724,HR,994129,15,Male,Yes,High,Diploma
+EMP0725,Operations,368584,15,Male,No,Excellent,PhD
+EMP0726,HR,282715,22,Female,No,High,High School
+EMP0727,Sales,701988,10,Female,No,Excellent,PhD
+EMP0728,Marketing,889711,4,Female,Yes,Low,Diploma
+EMP0729,Sales,514158,17,Male,No,Average,PhD
+EMP0730,IT,145152,2,Male,No,Excellent,PhD
+EMP0731,Sales,874262,0,Female,No,Excellent,PhD
+EMP0732,IT,232038,22,Female,Yes,Excellent,Bachalor's
+EMP0733,Finance,316556,11,Male,Yes,Average,PhD
+EMP0734,Sales,886017,21,Male,Yes,High,Master's
+EMP0735,Operations,466270,17,Female,No,Average,Bachalor's
+EMP0736,Marketing,69939,14,Female,No,Excellent,Bachalor's
+EMP0737,HR,186400,19,Male,Yes,Low,PhD
+EMP0738,Finance,1042040,25,Female,Yes,Excellent,Diploma
+EMP0739,Marketing,321363,16,Female,Yes,Low,Bachalor's
+EMP0740,Sales,44669,0,Female,Yes,Average,High School
+EMP0741,IT,844173,16,Female,Yes,Excellent,Bachalor's
+EMP0742,Sales,452948,2,Male,No,Average,PhD
+EMP0743,Marketing,897217,25,Male,Yes,Low,PhD
+EMP0744,HR,628000,17,Male,Yes,Average,Master's
+EMP0745,IT,794203,6,Male,No,Low,Bachalor's
+EMP0746,HR,150015,23,Male,No,Low,Bachalor's
+EMP0747,HR,484139,24,Female,Yes,Average,Bachalor's
+EMP0748,HR,1003882,2,Female,No,Low,High School
+EMP0749,IT,436491,23,Male,No,Excellent,PhD
+EMP0750,Marketing,834859,14,Male,Yes,Excellent,Diploma
+EMP0751,Operations,1015998,23,Female,Yes,Low,PhD
+EMP0752,Marketing,766519,9,Male,Yes,Low,Diploma
+EMP0753,Finance,421718,0,Female,Yes,High,High School
+EMP0754,Operations,830194,5,Male,No,Average,PhD
+EMP0755,HR,469998,3,Female,Yes,Low,Master's
+EMP0756,IT,1130759,24,Male,Yes,Excellent,PhD
+EMP0757,IT,379040,14,Female,Yes,Average,Diploma
+EMP0758,IT,982654,8,Male,Yes,Average,PhD
+EMP0759,Marketing,259345,2,Male,No,Average,PhD
+EMP0760,Sales,855601,10,Female,No,Average,Master's
+EMP0761,Finance,311446,1,Male,No,Average,High School
+EMP0762,HR,519784,11,Male,No,High,PhD
+EMP0763,HR,1084795,3,Female,Yes,Low,Diploma
+EMP0764,Finance,634489,17,Female,No,Low,Bachalor's
+EMP0765,HR,1169782,18,Male,Yes,Low,Bachalor's
+EMP0766,Marketing,375303,12,Female,Yes,Low,Diploma
+EMP0767,Finance,1161619,6,Female,No,High,PhD
+EMP0768,Finance,198833,11,Male,No,Average,PhD
+EMP0769,HR,385448,17,Female,Yes,Low,Diploma
+EMP0770,Operations,158553,18,Male,Yes,Average,PhD
+EMP0771,IT,304310,3,Male,No,Low,Master's
+EMP0772,Operations,1192766,3,Male,Yes,Excellent,High School
+EMP0773,Operations,706706,16,Male,Yes,Excellent,Diploma
+EMP0774,HR,689963,1,Female,No,Excellent,Diploma
+EMP0775,Marketing,1077828,12,Female,No,Low,Diploma
+EMP0776,IT,319151,7,Female,No,Average,Bachalor's
+EMP0777,IT,706275,6,Female,Yes,Low,High School
+EMP0778,Marketing,578396,3,Female,No,Excellent,Master's
+EMP0779,Operations,850635,2,Male,No,High,Bachalor's
+EMP0780,Marketing,492100,14,Male,Yes,Excellent,Diploma
+EMP0781,Sales,1109979,9,Female,No,Excellent,Diploma
+EMP0782,HR,635492,10,Male,No,Excellent,High School
+EMP0783,IT,515616,2,Female,Yes,High,PhD
+EMP0784,Finance,603375,3,Male,No,Average,High School
+EMP0785,IT,662475,6,Female,No,Excellent,High School
+EMP0786,HR,197727,15,Male,Yes,Excellent,High School
+EMP0787,Operations,885091,13,Female,No,High,Master's
+EMP0788,IT,596460,21,Female,Yes,Excellent,Master's
+EMP0789,Sales,1152786,24,Female,No,High,PhD
+EMP0790,Finance,34732,20,Female,No,High,Master's
+EMP0791,Marketing,298317,10,Female,No,High,Bachalor's
+EMP0792,Sales,1184065,1,Male,No,High,Diploma
+EMP0793,Finance,844442,9,Male,Yes,Low,Diploma
+EMP0794,HR,327059,1,Female,Yes,Excellent,Diploma
+EMP0795,IT,789280,6,Female,No,High,Master's
+EMP0796,Sales,670042,21,Female,Yes,High,PhD
+EMP0797,IT,661839,4,Male,Yes,Low,Master's
+EMP0798,Sales,103362,4,Female,Yes,High,Master's
+EMP0799,Marketing,882406,8,Male,No,High,High School
+EMP0800,Sales,525117,23,Male,Yes,Excellent,Master's
+EMP0801,HR,705524,11,Male,Yes,Excellent,High School
+EMP0802,HR,491652,18,Female,Yes,Low,High School
+EMP0803,HR,1098643,20,Male,Yes,Average,High School
+EMP0804,IT,876787,13,Male,No,Average,PhD
+EMP0805,IT,235033,12,Female,Yes,Low,PhD
+EMP0806,IT,1038697,25,Female,No,Low,Diploma
+EMP0807,IT,345664,12,Female,Yes,Excellent,High School
+EMP0808,Sales,937770,3,Male,Yes,Low,High School
+EMP0809,IT,1109590,1,Female,Yes,Excellent,Bachalor's
+EMP0810,Sales,235848,13,Male,No,High,PhD
+EMP0811,IT,883630,3,Female,Yes,Average,Bachalor's
+EMP0812,Sales,304953,4,Female,No,Low,Master's
+EMP0813,Sales,327534,22,Male,Yes,Low,PhD
+EMP0814,Finance,846086,19,Male,No,Low,High School
+EMP0815,Finance,353253,16,Female,No,Excellent,Diploma
+EMP0816,HR,841272,2,Female,Yes,Low,Diploma
+EMP0817,Marketing,837539,1,Male,Yes,Excellent,PhD
+EMP0818,Marketing,1136127,4,Female,No,Excellent,Bachalor's
+EMP0819,Sales,90280,16,Female,Yes,Excellent,High School
+EMP0820,Sales,939349,16,Male,No,High,High School
+EMP0821,Finance,400963,14,Female,Yes,Low,Diploma
+EMP0822,Marketing,212057,8,Female,Yes,Excellent,PhD
+EMP0823,Operations,984405,21,Male,Yes,Excellent,Diploma
+EMP0824,IT,219987,19,Female,No,Low,Master's
+EMP0825,Marketing,354553,24,Female,No,Average,Diploma
+EMP0826,Marketing,661240,2,Male,No,Low,Bachalor's
+EMP0827,IT,329329,1,Male,No,High,PhD
+EMP0828,Sales,190269,4,Male,No,Excellent,Diploma
+EMP0829,Sales,817942,23,Male,No,Average,Bachalor's
+EMP0830,IT,137767,24,Male,No,Low,Master's
+EMP0831,Operations,1160497,1,Female,Yes,Excellent,Master's
+EMP0832,Operations,569549,7,Male,No,Average,Bachalor's
+EMP0833,Operations,579941,5,Male,Yes,High,High School
+EMP0834,Sales,33246,17,Male,Yes,Average,Master's
+EMP0835,Operations,325547,17,Male,No,High,PhD
+EMP0836,Finance,1160909,5,Female,Yes,Low,PhD
+EMP0837,Marketing,268790,6,Female,No,High,Bachalor's
+EMP0838,HR,654750,22,Male,Yes,Low,High School
+EMP0839,Marketing,235929,20,Male,No,Low,PhD
+EMP0840,Finance,633827,19,Male,No,High,Bachalor's
+EMP0841,Marketing,351785,19,Female,Yes,Low,Bachalor's
+EMP0842,Finance,339243,21,Female,No,High,PhD
+EMP0843,Finance,38161,1,Male,Yes,High,PhD
+EMP0844,Marketing,745090,19,Male,No,Low,High School
+EMP0845,Finance,1042925,8,Male,No,High,Diploma
+EMP0846,IT,28425,16,Female,Yes,Average,Master's
+EMP0847,Sales,899043,21,Male,Yes,High,Diploma
+EMP0848,Operations,423343,23,Male,No,Excellent,Bachalor's
+EMP0849,HR,1199829,10,Female,No,High,PhD
+EMP0850,HR,1041799,19,Female,No,Excellent,High School
+EMP0851,Sales,954731,15,Male,Yes,High,Diploma
+EMP0852,Operations,833293,7,Female,No,Low,Diploma
+EMP0853,Finance,1175087,5,Male,Yes,Average,Master's
+EMP0854,Operations,846397,14,Female,No,Excellent,Bachalor's
+EMP0855,Finance,1136916,2,Female,Yes,Excellent,PhD
+EMP0856,IT,56654,19,Female,No,High,PhD
+EMP0857,IT,704816,20,Male,Yes,High,Master's
+EMP0858,IT,458189,6,Female,Yes,Average,High School
+EMP0859,HR,82347,8,Female,Yes,Excellent,Bachalor's
+EMP0860,Finance,725219,14,Female,Yes,Excellent,Master's
+EMP0861,Operations,704674,16,Male,No,Average,PhD
+EMP0862,Sales,1058296,5,Male,No,Excellent,High School
+EMP0863,Operations,945364,17,Female,No,Excellent,Diploma
+EMP0864,Sales,779161,25,Male,Yes,High,PhD
+EMP0865,Finance,371866,3,Female,Yes,Excellent,High School
+EMP0866,Operations,668770,25,Female,Yes,Excellent,High School
+EMP0867,Operations,1131478,17,Male,Yes,Low,Diploma
+EMP0868,Marketing,463050,4,Male,Yes,Excellent,Bachalor's
+EMP0869,Sales,999609,7,Male,Yes,Average,Diploma
+EMP0870,Operations,397810,25,Female,Yes,Low,Diploma
+EMP0871,HR,170779,25,Female,Yes,Excellent,High School
+EMP0872,Marketing,512544,2,Female,Yes,High,Diploma
+EMP0873,Finance,166616,22,Female,Yes,High,PhD
+EMP0874,Sales,1111971,18,Female,Yes,Excellent,Master's
+EMP0875,Marketing,53663,17,Male,Yes,High,PhD
+EMP0876,IT,495844,23,Female,No,High,Bachalor's
+EMP0877,HR,102565,13,Male,Yes,Low,High School
+EMP0878,IT,110547,10,Male,No,Low,Bachalor's
+EMP0879,Operations,1021156,8,Male,Yes,High,Master's
+EMP0880,IT,136178,13,Male,Yes,Average,Bachalor's
+EMP0881,HR,722728,13,Female,No,Excellent,PhD
+EMP0882,Sales,846966,12,Female,No,Average,High School
+EMP0883,IT,433746,16,Female,No,Low,PhD
+EMP0884,Finance,277150,17,Female,No,Average,Master's
+EMP0885,Operations,1131664,20,Male,Yes,Average,Bachalor's
+EMP0886,Operations,1148564,3,Male,No,Low,Bachalor's
+EMP0887,Operations,1097460,7,Female,No,Excellent,PhD
+EMP0888,Sales,573288,7,Female,No,Low,Master's
+EMP0889,Finance,670728,24,Female,No,Average,Bachalor's
+EMP0890,Marketing,90740,10,Female,No,Excellent,Bachalor's
+EMP0891,HR,902217,21,Male,Yes,Excellent,PhD
+EMP0892,Finance,172174,23,Female,No,Low,High School
+EMP0893,HR,638576,12,Female,No,Excellent,PhD
+EMP0894,Marketing,970521,19,Female,No,High,Bachalor's
+EMP0895,IT,64637,0,Female,No,Low,High School
+EMP0896,Sales,352686,6,Female,Yes,Low,Master's
+EMP0897,HR,163104,6,Female,No,High,PhD
+EMP0898,HR,88966,6,Female,No,Low,Bachalor's
+EMP0899,IT,148978,13,Male,No,High,PhD
+EMP0900,HR,738034,2,Male,Yes,Excellent,High School
+EMP0901,Sales,403400,2,Female,No,High,PhD
+EMP0902,Finance,252015,3,Female,No,High,Bachalor's
+EMP0903,Operations,256260,5,Female,Yes,High,Diploma
+EMP0904,Operations,596961,18,Male,Yes,High,Bachalor's
+EMP0905,IT,990459,20,Female,No,Low,PhD
+EMP0906,Marketing,287401,2,Male,Yes,Excellent,Bachalor's
+EMP0907,IT,1041740,10,Male,No,High,PhD
+EMP0908,IT,726279,0,Male,No,High,Diploma
+EMP0909,Sales,689051,22,Female,Yes,Low,Diploma
+EMP0910,HR,722668,18,Male,Yes,Low,PhD
+EMP0911,Operations,1082361,18,Male,No,High,PhD
+EMP0912,Sales,956819,22,Female,No,Average,PhD
+EMP0913,IT,392671,14,Male,No,Average,PhD
+EMP0914,Marketing,624413,6,Male,Yes,Excellent,Bachalor's
+EMP0915,IT,732707,12,Male,Yes,Average,Bachalor's
+EMP0916,Finance,310646,4,Female,Yes,Excellent,Master's
+EMP0917,Marketing,277615,10,Male,Yes,High,PhD
+EMP0918,HR,751546,25,Female,Yes,High,High School
+EMP0919,Marketing,658531,13,Male,Yes,Average,Diploma
+EMP0920,IT,242318,10,Female,No,Low,High School
+EMP0921,IT,38023,21,Female,No,Average,Diploma
+EMP0922,Marketing,161727,14,Male,Yes,Excellent,Bachalor's
+EMP0923,HR,1028515,14,Male,Yes,Excellent,High School
+EMP0924,Sales,204573,7,Male,No,Low,Bachalor's
+EMP0925,Marketing,248878,20,Male,No,Average,Bachalor's
+EMP0926,IT,980633,7,Female,Yes,Average,Master's
+EMP0927,IT,817880,3,Female,No,Excellent,Diploma
+EMP0928,HR,553572,11,Female,Yes,Low,High School
+EMP0929,Finance,71571,11,Male,No,Excellent,PhD
+EMP0930,IT,251303,9,Male,Yes,Excellent,PhD
+EMP0931,Finance,654535,12,Female,Yes,Low,Diploma
+EMP0932,HR,1176337,1,Male,No,Excellent,High School
+EMP0933,Sales,442645,11,Female,No,High,High School
+EMP0934,IT,262214,25,Female,No,Low,Diploma
+EMP0935,Sales,273851,14,Male,No,High,Bachalor's
+EMP0936,IT,1005203,13,Female,No,High,High School
+EMP0937,IT,107718,17,Female,No,Average,PhD
+EMP0938,Marketing,1178117,21,Female,Yes,Average,PhD
+EMP0939,Operations,256787,1,Male,Yes,Excellent,Diploma
+EMP0940,Sales,679370,24,Male,Yes,Low,PhD
+EMP0941,Finance,971034,3,Female,Yes,High,PhD
+EMP0942,IT,162349,23,Female,No,Excellent,PhD
+EMP0943,IT,1164743,18,Male,No,Average,Diploma
+EMP0944,IT,132722,9,Female,Yes,Average,Master's
+EMP0945,Operations,1172704,17,Male,No,Low,Bachalor's
+EMP0946,HR,870302,13,Female,No,Excellent,Diploma
+EMP0947,IT,768740,7,Female,Yes,Excellent,High School
+EMP0948,HR,152206,19,Male,No,Average,Bachalor's
+EMP0949,Operations,299313,17,Male,Yes,Average,Master's
+EMP0950,Operations,550147,24,Male,No,Excellent,Diploma
+EMP0951,Marketing,565005,18,Male,Yes,Average,Diploma
+EMP0952,Sales,194830,3,Female,Yes,High,PhD
+EMP0953,Marketing,537742,2,Female,No,Excellent,PhD
+EMP0954,IT,662631,5,Male,No,Average,Diploma
+EMP0955,IT,738011,21,Male,No,High,Master's
+EMP0956,Sales,363461,23,Male,Yes,Excellent,Diploma
+EMP0957,Sales,1043780,22,Female,Yes,Average,PhD
+EMP0958,Finance,914983,13,Female,No,Low,Master's
+EMP0959,HR,211843,0,Female,Yes,Low,High School
+EMP0960,Sales,835042,18,Female,Yes,Excellent,Diploma
+EMP0961,Operations,311029,19,Female,No,Low,Master's
+EMP0962,Marketing,681436,21,Female,No,Excellent,Diploma
+EMP0963,Marketing,1037474,0,Female,No,Low,Diploma
+EMP0964,Operations,805404,2,Male,Yes,High,Diploma
+EMP0965,IT,33029,15,Male,Yes,Average,Bachalor's
+EMP0966,Operations,361652,11,Female,Yes,High,Diploma
+EMP0967,Marketing,536974,12,Female,No,Average,High School
+EMP0968,Marketing,241598,19,Male,Yes,Excellent,Master's
+EMP0969,IT,358715,16,Female,Yes,Average,Master's
+EMP0970,Finance,130937,14,Female,Yes,Excellent,High School
+EMP0971,Finance,1177344,23,Female,No,Excellent,Master's
+EMP0972,Finance,758171,15,Male,Yes,Low,Bachalor's
+EMP0973,IT,649705,15,Female,Yes,Average,High School
+EMP0974,Marketing,130554,17,Female,No,Excellent,Diploma
+EMP0975,IT,264996,13,Female,No,Excellent,Bachalor's
+EMP0976,Sales,829842,3,Male,No,Excellent,Diploma
+EMP0977,Operations,497405,21,Female,Yes,Average,Bachalor's
+EMP0978,Operations,909600,24,Female,No,Low,Bachalor's
+EMP0979,Finance,959052,18,Male,Yes,Average,High School
+EMP0980,IT,740099,21,Female,No,Excellent,Bachalor's
+EMP0981,HR,363548,12,Female,Yes,Excellent,Bachalor's
+EMP0982,Finance,1058593,5,Female,No,High,High School
+EMP0983,IT,917784,2,Male,Yes,Excellent,Diploma
+EMP0984,Operations,512962,21,Male,No,Average,High School
+EMP0985,Marketing,317427,24,Male,Yes,Average,Diploma
+EMP0986,Operations,459518,7,Male,Yes,Average,Bachalor's
+EMP0987,Marketing,763460,8,Male,No,High,Bachalor's
+EMP0988,HR,177099,23,Male,No,High,Bachalor's
+EMP0989,Sales,177617,1,Female,Yes,Average,Diploma
+EMP0990,IT,862709,6,Female,No,High,Bachalor's
+EMP0991,Finance,792001,4,Female,Yes,Average,Diploma
+EMP0992,Operations,653976,6,Female,Yes,High,Master's
+EMP0993,IT,571728,0,Male,Yes,Low,Diploma
+EMP0994,Finance,88526,14,Female,Yes,Average,Master's
+EMP0995,IT,655265,10,Female,No,Low,Master's
+EMP0996,Finance,287858,9,Female,No,High,Master's
+EMP0997,Sales,516868,18,Female,No,High,High School
+EMP0998,Sales,172707,1,Male,No,Low,Master's
+EMP0999,HR,861770,3,Female,No,Excellent,Master's
+EMP1000,HR,243317,19,Female,No,Excellent,Master's
+EMP1001,Operations,708122,20,Male,Yes,Excellent,Diploma
+EMP1002,Sales,31165,8,Male,Yes,Average,PhD
+EMP1003,HR,127061,11,Female,No,Low,Diploma
+EMP1004,Sales,145761,15,Female,No,Average,Master's
+EMP1005,HR,362062,8,Male,No,Excellent,Master's
+EMP1006,Marketing,978020,21,Female,Yes,Low,Bachalor's
+EMP1007,Finance,786279,24,Male,Yes,Low,High School
+EMP1008,Sales,135081,9,Female,No,Average,Master's
+EMP1009,HR,671863,1,Female,Yes,Excellent,Master's
+EMP1010,Sales,1003964,16,Female,Yes,Low,High School
+EMP1011,HR,825809,21,Female,Yes,Average,Bachalor's
+EMP1012,Marketing,265013,17,Female,No,High,Bachalor's
+EMP1013,Sales,804403,9,Female,No,High,Bachalor's
+EMP1014,Operations,257167,3,Male,No,High,High School
+EMP1015,HR,1014913,3,Male,No,Average,Master's
+EMP1016,Operations,73644,23,Female,Yes,High,PhD
+EMP1017,Finance,298541,8,Male,Yes,Average,Bachalor's
+EMP1018,IT,284470,24,Female,No,High,High School
+EMP1019,IT,146217,22,Female,No,Low,PhD
+EMP1020,Marketing,1094464,24,Female,Yes,High,Bachalor's
+EMP1021,IT,213121,16,Male,No,Excellent,Bachalor's
+EMP1022,Finance,413922,10,Female,No,Excellent,Master's
+EMP1023,HR,165732,10,Male,No,Excellent,High School
+EMP1024,Finance,781869,5,Male,No,Average,High School
+EMP1025,HR,107605,11,Male,Yes,Average,Master's
+EMP1026,Finance,174128,1,Male,No,High,PhD
+EMP1027,Marketing,1114367,22,Female,No,High,High School
+EMP1028,Sales,641544,7,Female,No,Excellent,Diploma
+EMP1029,Sales,629975,24,Female,Yes,Average,High School
+EMP1030,Marketing,775328,23,Female,Yes,Excellent,Master's
+EMP1031,IT,35161,24,Female,No,Excellent,Master's
+EMP1032,Operations,624572,23,Female,Yes,Average,Master's
+EMP1033,Sales,643812,9,Male,No,Average,PhD
+EMP1034,Marketing,540511,7,Male,Yes,High,Master's
+EMP1035,HR,35912,19,Male,Yes,Average,Diploma
+EMP1036,IT,1166632,12,Female,Yes,Excellent,Bachalor's
+EMP1037,Operations,54914,2,Male,Yes,Low,High School
+EMP1038,HR,890657,14,Female,No,Low,High School
+EMP1039,IT,438131,22,Female,No,Low,Diploma
+EMP1040,Sales,207404,23,Male,No,Excellent,High School
+EMP1041,Sales,543071,17,Female,Yes,Excellent,PhD
+EMP1042,Marketing,329173,10,Female,Yes,Excellent,Diploma
+EMP1043,Marketing,883073,19,Male,No,Average,High School
+EMP1044,Finance,655795,24,Male,Yes,Low,PhD
+EMP1045,HR,1151586,2,Female,Yes,Average,High School
+EMP1046,Operations,936016,8,Female,Yes,High,PhD
+EMP1047,Finance,751048,17,Female,Yes,Low,Bachalor's
+EMP1048,HR,711941,9,Male,No,Average,Master's
+EMP1049,Sales,160443,24,Male,Yes,Low,PhD
+EMP1050,Finance,829487,3,Female,No,Excellent,Bachalor's
+EMP1051,Finance,92185,13,Female,No,Average,Diploma
+EMP1052,IT,663340,5,Female,Yes,Average,Diploma
+EMP1053,Finance,625937,20,Male,No,Excellent,Master's
+EMP1054,Finance,581899,14,Female,No,Excellent,Diploma
+EMP1055,Marketing,664405,6,Female,No,Excellent,High School
+EMP1056,IT,964751,22,Male,Yes,Average,Diploma
+EMP1057,Operations,279791,24,Male,Yes,Low,PhD
+EMP1058,Operations,344424,0,Male,Yes,Excellent,Bachalor's
+EMP1059,Sales,551595,23,Male,Yes,High,Diploma
+EMP1060,Marketing,747199,25,Female,Yes,Low,Diploma
+EMP1061,Sales,1150196,19,Male,Yes,Excellent,PhD
+EMP1062,Marketing,100911,10,Male,Yes,Low,High School
+EMP1063,Marketing,439388,21,Female,No,High,Diploma
+EMP1064,Operations,527559,3,Female,Yes,Low,Master's
+EMP1065,Finance,588245,23,Female,Yes,Low,Master's
+EMP1066,Marketing,93376,10,Male,No,Average,High School
+EMP1067,Marketing,480166,0,Male,No,Average,PhD
+EMP1068,IT,642973,23,Male,Yes,Low,PhD
+EMP1069,Finance,411376,17,Female,Yes,Low,PhD
+EMP1070,IT,757097,13,Male,No,Average,Diploma
+EMP1071,IT,951806,20,Male,Yes,Average,High School
+EMP1072,Marketing,585527,11,Female,Yes,Average,Bachalor's
+EMP1073,Marketing,954206,3,Female,Yes,Average,Bachalor's
+EMP1074,Finance,1004651,8,Female,Yes,Low,Diploma
+EMP1075,Marketing,523914,8,Male,Yes,Excellent,PhD
+EMP1076,HR,436197,25,Female,No,High,High School
+EMP1077,IT,269218,21,Female,Yes,Average,PhD
+EMP1078,IT,117153,20,Male,No,High,PhD
+EMP1079,HR,1127564,14,Male,Yes,Average,Bachalor's
+EMP1080,Finance,1097456,12,Female,No,Average,High School
+EMP1081,Marketing,437909,21,Female,Yes,Average,Master's
+EMP1082,Sales,229418,20,Female,Yes,Average,Bachalor's
+EMP1083,Sales,449898,14,Male,No,High,Diploma
+EMP1084,IT,823253,24,Male,Yes,Excellent,Diploma
+EMP1085,Finance,624453,11,Male,Yes,Low,Master's
+EMP1086,HR,47510,20,Male,No,Low,High School
+EMP1087,Sales,1164523,4,Female,Yes,Excellent,Master's
+EMP1088,IT,405186,18,Male,Yes,Low,Master's
+EMP1089,HR,1086342,25,Female,Yes,High,High School
+EMP1090,Finance,235266,6,Female,Yes,Excellent,High School
+EMP1091,Marketing,290306,5,Male,No,High,Diploma
+EMP1092,Finance,143840,18,Male,No,Average,PhD
+EMP1093,IT,953041,1,Male,Yes,High,Bachalor's
+EMP1094,Marketing,529461,13,Male,Yes,Average,High School
+EMP1095,Marketing,553724,17,Female,No,High,Diploma
+EMP1096,Operations,762095,19,Male,No,Low,PhD
+EMP1097,IT,642895,18,Male,No,Excellent,High School
+EMP1098,HR,507184,20,Male,Yes,Low,PhD
+EMP1099,Operations,900381,25,Female,Yes,Excellent,Master's
+EMP1100,HR,603010,25,Female,Yes,High,Diploma
+EMP1101,Operations,957823,9,Female,No,Excellent,PhD
+EMP1102,IT,33987,2,Female,No,Low,High School
+EMP1103,HR,1117931,19,Male,Yes,Average,PhD
+EMP1104,Operations,450318,16,Male,No,High,Master's
+EMP1105,Sales,980395,14,Female,No,Average,PhD
+EMP1106,Sales,619464,11,Male,Yes,Average,Diploma
+EMP1107,Sales,1175861,6,Female,No,Excellent,High School
+EMP1108,Sales,906164,11,Female,Yes,Average,Bachalor's
+EMP1109,IT,351315,19,Male,No,Excellent,Bachalor's
+EMP1110,IT,909563,22,Female,No,High,Diploma
+EMP1111,Finance,545625,2,Male,No,Average,Bachalor's
+EMP1112,Finance,349590,5,Female,Yes,Excellent,Bachalor's
+EMP1113,HR,190811,12,Female,Yes,High,Master's
+EMP1114,Finance,1192974,16,Male,No,Excellent,Master's
+EMP1115,Sales,627646,1,Male,No,Low,High School
+EMP1116,Operations,234697,10,Female,No,Average,High School
+EMP1117,IT,713961,24,Male,No,High,High School
+EMP1118,Sales,1031321,22,Female,No,Excellent,Master's
+EMP1119,IT,815872,10,Female,No,Average,Bachalor's
+EMP1120,Operations,568704,3,Female,No,High,Bachalor's
+EMP1121,HR,1008916,12,Male,No,Low,PhD
+EMP1122,Finance,1165698,14,Male,No,Average,Master's
+EMP1123,Operations,469311,5,Male,No,Low,PhD
+EMP1124,IT,803410,5,Male,No,High,High School
+EMP1125,Finance,1086328,1,Male,No,High,Diploma
+EMP1126,Sales,612511,22,Female,Yes,Excellent,Bachalor's
+EMP1127,Finance,597495,17,Male,Yes,High,Diploma
+EMP1128,IT,1100778,9,Female,No,High,PhD
+EMP1129,IT,299632,1,Female,No,Average,PhD
+EMP1130,Operations,567141,10,Female,No,Low,PhD
+EMP1131,Sales,241339,19,Female,No,Excellent,High School
+EMP1132,HR,123275,23,Female,No,Low,High School
+EMP1133,Sales,823468,18,Male,No,Low,Diploma
+EMP1134,HR,710915,8,Female,Yes,Average,High School
+EMP1135,HR,87204,1,Female,No,High,Diploma
+EMP1136,HR,1002378,25,Female,No,High,PhD
+EMP1137,IT,542682,17,Female,No,Excellent,Diploma
+EMP1138,Operations,1053286,1,Female,No,Low,PhD
+EMP1139,Marketing,76655,7,Female,No,High,PhD
+EMP1140,Marketing,821287,17,Female,No,Low,Diploma
+EMP1141,Finance,664558,25,Female,Yes,Low,PhD
+EMP1142,Sales,998128,11,Female,Yes,Average,Master's
+EMP1143,HR,1171395,16,Female,No,High,Bachalor's
+EMP1144,Finance,510448,18,Male,Yes,High,High School
+EMP1145,HR,107430,14,Female,No,Excellent,Bachalor's
+EMP1146,Marketing,219046,11,Female,No,Low,Bachalor's
+EMP1147,IT,437585,6,Male,No,Low,Master's
+EMP1148,IT,985347,12,Female,Yes,Average,Master's
+EMP1149,Finance,472301,8,Female,Yes,High,PhD
+EMP1150,Marketing,1176604,7,Male,Yes,High,Diploma
+EMP1151,HR,940981,0,Female,Yes,Excellent,High School
+EMP1152,Finance,1110666,17,Female,No,Low,PhD
+EMP1153,Marketing,773850,11,Female,Yes,High,High School
+EMP1154,Finance,568530,8,Female,Yes,Average,PhD
+EMP1155,Finance,862935,6,Female,Yes,Excellent,Diploma
+EMP1156,Marketing,1155211,17,Female,Yes,High,Master's
+EMP1157,IT,775050,12,Male,Yes,Excellent,Master's
+EMP1158,Operations,1186513,16,Female,No,Low,PhD
+EMP1159,Sales,324964,11,Male,No,Average,Master's
+EMP1160,Finance,772821,2,Female,No,Low,Master's
+EMP1161,IT,1018461,4,Male,No,Excellent,Bachalor's
+EMP1162,Operations,364453,14,Male,Yes,Average,High School
+EMP1163,Sales,435502,16,Male,Yes,High,Diploma
+EMP1164,Sales,651321,3,Female,Yes,Low,Master's
+EMP1165,HR,414534,19,Male,No,Excellent,PhD
+EMP1166,HR,448885,25,Male,Yes,High,Master's
+EMP1167,Operations,905167,13,Male,Yes,High,PhD
+EMP1168,HR,538617,19,Female,Yes,High,Bachalor's
+EMP1169,Operations,1038202,22,Female,No,High,High School
+EMP1170,IT,680848,14,Male,No,Low,High School
+EMP1171,Sales,537525,17,Male,No,Average,Bachalor's
+EMP1172,HR,1022068,20,Male,No,Low,Diploma
+EMP1173,Operations,659766,4,Male,Yes,Average,PhD
+EMP1174,Marketing,62973,16,Female,Yes,High,PhD
+EMP1175,Sales,703253,7,Male,No,Low,PhD
+EMP1176,Finance,1178954,2,Male,No,Low,Bachalor's
+EMP1177,Sales,788147,13,Male,No,High,Bachalor's
+EMP1178,Marketing,263962,11,Male,No,Excellent,Diploma
+EMP1179,HR,494384,9,Male,Yes,High,High School
+EMP1180,Finance,335613,17,Female,No,Average,Bachalor's
+EMP1181,Finance,921542,4,Female,Yes,Excellent,Bachalor's
+EMP1182,Marketing,517071,22,Male,Yes,Low,Diploma
+EMP1183,IT,434190,8,Female,No,Excellent,Master's
+EMP1184,HR,152450,9,Female,No,Excellent,Master's
+EMP1185,Operations,218798,2,Female,Yes,Low,High School
+EMP1186,Sales,1015585,12,Female,No,Low,High School
+EMP1187,HR,1043347,17,Male,Yes,Low,Diploma
+EMP1188,IT,734903,15,Male,No,High,Diploma
+EMP1189,HR,55638,17,Female,Yes,Excellent,High School
+EMP1190,Sales,633292,15,Male,No,Low,Master's
+EMP1191,HR,953039,5,Female,Yes,Average,Bachalor's
+EMP1192,Finance,1065510,7,Male,Yes,Excellent,Bachalor's
+EMP1193,HR,487774,4,Female,No,High,Master's
+EMP1194,HR,631404,4,Female,Yes,Excellent,Bachalor's
+EMP1195,Marketing,1061053,13,Male,Yes,High,Bachalor's
+EMP1196,IT,948880,3,Male,No,High,Master's
+EMP1197,IT,733386,25,Male,Yes,Average,Bachalor's
+EMP1198,Finance,1098847,4,Male,Yes,Excellent,High School
+EMP1199,Finance,508548,8,Male,No,Excellent,Bachalor's
+EMP1200,Sales,1052415,2,Female,Yes,High,Master's
+EMP1201,Marketing,1176945,24,Female,No,Average,High School
+EMP1202,Finance,1099263,13,Male,No,Low,High School
+EMP1203,Sales,74633,21,Female,No,High,Diploma
+EMP1204,Operations,1052023,19,Female,Yes,Excellent,High School
+EMP1205,Marketing,518376,3,Female,Yes,Average,Master's
+EMP1206,Marketing,671764,6,Male,Yes,High,Diploma
+EMP1207,Finance,688803,12,Female,Yes,Average,Diploma
+EMP1208,Sales,1098234,25,Male,No,Excellent,Diploma
+EMP1209,Finance,194728,9,Female,Yes,Low,Diploma
+EMP1210,IT,545504,12,Female,No,Low,Diploma
+EMP1211,Finance,309650,6,Female,Yes,Excellent,PhD
+EMP1212,HR,756994,15,Female,No,High,Diploma
+EMP1213,Operations,289952,15,Female,Yes,Low,Bachalor's
+EMP1214,Marketing,862984,18,Male,Yes,Average,PhD
+EMP1215,HR,1186156,23,Male,Yes,Average,PhD
+EMP1216,IT,435000,3,Female,No,Average,Diploma
+EMP1217,IT,386851,12,Male,Yes,High,Master's
+EMP1218,IT,1070132,9,Male,Yes,High,Diploma
+EMP1219,Finance,1154155,1,Male,No,High,Diploma
+EMP1220,Sales,177291,2,Female,No,Excellent,Diploma
+EMP1221,Finance,337294,14,Female,Yes,Low,High School
+EMP1222,Finance,982096,25,Male,No,Excellent,High School
+EMP1223,Sales,200318,17,Female,Yes,Average,High School
+EMP1224,Operations,453948,2,Male,Yes,High,Master's
+EMP1225,Marketing,838925,9,Male,Yes,Low,Master's
+EMP1226,Marketing,988128,20,Male,No,Excellent,Master's
+EMP1227,HR,1035817,24,Female,No,Average,Bachalor's
+EMP1228,Finance,502209,4,Female,Yes,Excellent,Diploma
+EMP1229,Finance,588072,18,Male,Yes,Excellent,High School
+EMP1230,Operations,637447,14,Female,No,Low,High School
+EMP1231,Finance,997871,5,Male,No,Average,Master's
+EMP1232,HR,1166789,24,Male,Yes,Average,High School
+EMP1233,IT,1113035,21,Female,Yes,Low,High School
+EMP1234,Finance,603624,24,Female,Yes,Excellent,Bachalor's
+EMP1235,Sales,618715,17,Female,No,Low,PhD
+EMP1236,Sales,84547,3,Female,Yes,High,Diploma
+EMP1237,HR,346395,1,Male,No,Low,Diploma
+EMP1238,Sales,39575,10,Female,Yes,High,High School
+EMP1239,Sales,158276,9,Female,No,High,Diploma
+EMP1240,IT,70545,4,Female,Yes,Low,Bachalor's
+EMP1241,Marketing,533439,11,Female,Yes,High,Master's
+EMP1242,HR,549274,7,Male,Yes,Low,Bachalor's
+EMP1243,Finance,242297,5,Male,Yes,Low,High School
+EMP1244,HR,1098492,24,Female,Yes,High,High School
+EMP1245,Operations,211932,9,Female,Yes,Excellent,Bachalor's
+EMP1246,Finance,390594,0,Male,No,Excellent,Bachalor's
+EMP1247,IT,589000,20,Male,Yes,Average,Diploma
+EMP1248,Finance,953357,25,Female,Yes,Low,PhD
+EMP1249,Marketing,487670,2,Female,No,Low,Master's
+EMP1250,Finance,1165494,5,Female,Yes,Excellent,PhD
+EMP1251,Marketing,547960,15,Male,Yes,Low,Diploma
+EMP1252,IT,262654,17,Male,No,Excellent,Master's
+EMP1253,Marketing,344763,13,Male,Yes,High,Master's
+EMP1254,Marketing,80585,22,Female,No,Average,Diploma
+EMP1255,Marketing,1104909,16,Female,Yes,Low,Diploma
+EMP1256,HR,60178,23,Female,No,Low,Master's
+EMP1257,Finance,129073,2,Female,Yes,Low,High School
+EMP1258,IT,598774,5,Female,No,Low,Diploma
+EMP1259,IT,637620,16,Female,Yes,Low,Master's
+EMP1260,Operations,196925,0,Female,Yes,Average,High School
+EMP1261,Sales,387894,3,Male,No,Average,Diploma
+EMP1262,Finance,695904,21,Male,No,Excellent,Bachalor's
+EMP1263,Operations,893665,15,Female,No,Excellent,Diploma
+EMP1264,Finance,861936,15,Female,Yes,Average,Bachalor's
+EMP1265,Marketing,842683,6,Male,Yes,Average,PhD
+EMP1266,IT,527016,16,Female,Yes,High,Bachalor's
+EMP1267,Finance,61037,13,Male,No,Average,Bachalor's
+EMP1268,Marketing,759202,9,Male,Yes,Low,High School
+EMP1269,Sales,337203,19,Female,Yes,Excellent,PhD
+EMP1270,Sales,975954,11,Female,Yes,Average,Master's
+EMP1271,Operations,993364,17,Female,Yes,High,PhD
+EMP1272,HR,1134743,13,Male,No,Low,PhD
+EMP1273,HR,568528,1,Female,No,Average,Bachalor's
+EMP1274,Sales,1036080,13,Female,Yes,Low,Diploma
+EMP1275,HR,1161796,20,Male,No,Excellent,High School
+EMP1276,Marketing,31718,23,Male,Yes,Low,Master's
+EMP1277,HR,444282,5,Female,Yes,High,Bachalor's
+EMP1278,HR,346694,3,Male,No,Excellent,Master's
+EMP1279,IT,267000,1,Male,No,Excellent,Diploma
+EMP1280,Sales,447797,1,Male,No,Low,Diploma
+EMP1281,Sales,720769,22,Female,No,Low,Bachalor's
+EMP1282,Sales,201337,7,Female,No,Excellent,Master's
+EMP1283,Sales,596969,7,Female,Yes,High,PhD
+EMP1284,Operations,208582,1,Female,No,High,High School
+EMP1285,Finance,208881,6,Male,No,Excellent,PhD
+EMP1286,Finance,1007890,0,Female,No,Excellent,PhD
+EMP1287,Marketing,185983,9,Male,No,High,High School
+EMP1288,IT,847000,17,Male,No,High,Master's
+EMP1289,Sales,635269,3,Male,Yes,Low,Bachalor's
+EMP1290,Finance,194167,10,Female,Yes,Excellent,Diploma
+EMP1291,Sales,325038,6,Female,Yes,Average,Bachalor's
+EMP1292,HR,46912,12,Male,No,Low,Bachalor's
+EMP1293,Finance,1075007,12,Female,Yes,Average,High School
+EMP1294,IT,1055918,1,Male,Yes,Average,Master's
+EMP1295,Finance,1052692,19,Female,Yes,High,PhD
+EMP1296,Marketing,138403,7,Female,No,Excellent,Diploma
+EMP1297,IT,769322,16,Female,No,Average,High School
+EMP1298,Finance,548568,1,Male,No,Average,High School
+EMP1299,Finance,637191,23,Male,Yes,High,PhD
+EMP1300,Operations,109933,4,Male,No,Low,PhD
+EMP1301,IT,132034,5,Male,Yes,Low,PhD
+EMP1302,HR,752917,8,Female,No,Low,High School
+EMP1303,IT,525775,16,Male,No,Average,Bachalor's
+EMP1304,Sales,102658,15,Male,No,Low,PhD
+EMP1305,Finance,768588,22,Female,Yes,High,PhD
+EMP1306,Sales,68332,9,Male,Yes,High,Master's
+EMP1307,HR,877151,3,Male,Yes,Average,Diploma
+EMP1308,IT,735543,19,Male,No,High,Master's
+EMP1309,Sales,477728,5,Male,Yes,Excellent,PhD
+EMP1310,IT,31089,22,Male,Yes,Excellent,High School
+EMP1311,HR,564300,16,Male,No,Average,High School
+EMP1312,Finance,121863,14,Male,Yes,Excellent,High School
+EMP1313,HR,268900,19,Female,No,Excellent,Master's
+EMP1314,Marketing,214555,20,Female,No,Low,PhD
+EMP1315,Marketing,121479,6,Male,Yes,Average,PhD
+EMP1316,Sales,987476,15,Male,Yes,High,PhD
+EMP1317,Operations,1030541,12,Male,Yes,Excellent,Bachalor's
+EMP1318,HR,1085373,1,Male,Yes,Excellent,Diploma
+EMP1319,HR,290084,18,Male,Yes,Average,Master's
+EMP1320,Sales,1064058,21,Male,Yes,Average,High School
+EMP1321,HR,654666,4,Female,No,Excellent,Master's
+EMP1322,Operations,1048596,12,Male,No,Excellent,Master's
+EMP1323,Marketing,856370,25,Female,No,High,PhD
+EMP1324,Finance,91435,16,Male,Yes,High,Master's
+EMP1325,Operations,151107,8,Female,No,Excellent,Diploma
+EMP1326,HR,676594,3,Male,Yes,Excellent,Diploma
+EMP1327,HR,233389,1,Female,No,Excellent,PhD
+EMP1328,Operations,452479,5,Male,No,Average,Bachalor's
+EMP1329,Finance,200639,5,Male,Yes,Excellent,PhD
+EMP1330,HR,200039,24,Male,No,Average,Diploma
+EMP1331,Finance,502482,19,Female,No,Excellent,Diploma
+EMP1332,IT,518156,12,Female,Yes,Low,Master's
+EMP1333,Marketing,1006013,5,Male,No,Excellent,Diploma
+EMP1334,Sales,899859,1,Female,No,Low,Diploma
+EMP1335,IT,138386,5,Female,No,High,High School
+EMP1336,IT,915631,2,Female,No,Low,Diploma
+EMP1337,Operations,516431,5,Female,No,Low,Diploma
+EMP1338,Operations,1035037,20,Female,Yes,Low,Bachalor's
+EMP1339,Marketing,165709,11,Female,Yes,High,Diploma
+EMP1340,Sales,1075187,13,Male,No,Low,Master's
+EMP1341,IT,88138,14,Male,Yes,High,Master's
+EMP1342,Operations,778386,3,Male,Yes,Low,PhD
+EMP1343,HR,672907,5,Male,No,Excellent,High School
+EMP1344,Operations,419830,8,Female,Yes,Low,Diploma
+EMP1345,HR,1150815,4,Male,Yes,High,High School
+EMP1346,Operations,715090,19,Female,Yes,Low,Diploma
+EMP1347,Marketing,1097511,12,Male,No,High,PhD
+EMP1348,Finance,870194,22,Female,No,High,PhD
+EMP1349,Sales,1117934,7,Male,Yes,Average,Master's
+EMP1350,Marketing,457803,12,Male,No,High,PhD
+EMP1351,Marketing,751356,0,Female,Yes,High,Diploma
+EMP1352,HR,1114886,17,Female,Yes,High,PhD
+EMP1353,IT,1159261,11,Male,No,High,High School
+EMP1354,Sales,174516,15,Male,No,Average,Diploma
+EMP1355,HR,56812,4,Male,Yes,High,PhD
+EMP1356,Finance,52290,7,Male,Yes,Low,Master's
+EMP1357,HR,927857,5,Female,Yes,Average,High School
+EMP1358,Sales,885698,25,Female,Yes,Low,Master's
+EMP1359,HR,535564,11,Male,Yes,Average,High School
+EMP1360,Marketing,49569,12,Male,Yes,Low,Master's
+EMP1361,Sales,507094,7,Male,No,Excellent,PhD
+EMP1362,IT,1056522,18,Female,No,Low,Diploma
+EMP1363,Marketing,1029898,5,Male,No,Average,PhD
+EMP1364,Marketing,1061788,9,Female,No,Average,PhD
+EMP1365,Operations,887376,23,Female,No,Low,Diploma
+EMP1366,Finance,1115732,0,Male,Yes,High,Bachalor's
+EMP1367,HR,154392,15,Female,No,Average,High School
+EMP1368,Marketing,989222,10,Male,Yes,High,Master's
+EMP1369,IT,520881,7,Female,Yes,Average,Diploma
+EMP1370,Marketing,1109621,23,Male,Yes,Excellent,Diploma
+EMP1371,Sales,722488,20,Female,Yes,Excellent,Diploma
+EMP1372,IT,811814,20,Female,Yes,Low,Master's
+EMP1373,Sales,128537,20,Female,No,High,Diploma
+EMP1374,Sales,383648,16,Male,Yes,Excellent,Bachalor's
+EMP1375,Operations,56006,7,Male,Yes,Low,PhD
+EMP1376,Marketing,169602,20,Female,No,Low,PhD
+EMP1377,Sales,1015522,12,Male,No,High,Diploma
+EMP1378,Sales,601524,3,Male,Yes,Average,Diploma
+EMP1379,Sales,630748,24,Female,Yes,Average,Master's
+EMP1380,Finance,1184974,1,Male,Yes,High,PhD
+EMP1381,Sales,206423,5,Male,No,Excellent,High School
+EMP1382,Sales,1090624,5,Female,Yes,Low,High School
+EMP1383,Operations,169452,9,Female,No,Low,Diploma
+EMP1384,IT,1009168,9,Female,No,High,Master's
+EMP1385,IT,996013,21,Female,Yes,High,Master's
+EMP1386,IT,1181669,16,Male,Yes,Average,Bachalor's
+EMP1387,IT,509265,6,Male,No,Excellent,Diploma
+EMP1388,Sales,321466,17,Male,Yes,Excellent,Diploma
+EMP1389,Operations,650599,8,Male,Yes,High,Bachalor's
+EMP1390,HR,863617,4,Male,Yes,High,High School
+EMP1391,IT,720754,10,Female,No,Average,PhD
+EMP1392,Sales,1179896,22,Female,No,High,Diploma
+EMP1393,IT,1163085,2,Female,Yes,Excellent,PhD
+EMP1394,IT,287592,5,Male,No,High,PhD
+EMP1395,Marketing,1039294,20,Female,No,Low,Master's
+EMP1396,Sales,542613,6,Male,Yes,High,Bachalor's
+EMP1397,Marketing,583178,21,Male,Yes,High,High School
+EMP1398,Marketing,946837,10,Male,No,Excellent,Bachalor's
+EMP1399,Finance,849372,11,Male,No,Excellent,Master's
+EMP1400,Finance,928523,19,Female,No,Low,Bachalor's
+EMP1401,Finance,210501,2,Female,No,Average,High School
+EMP1402,Sales,958584,4,Male,Yes,High,Master's
+EMP1403,Marketing,687755,5,Male,No,Average,Bachalor's
+EMP1404,Marketing,199679,2,Female,Yes,Excellent,High School
+EMP1405,HR,868258,6,Female,Yes,High,Diploma
+EMP1406,Marketing,552672,20,Female,No,Low,Diploma
+EMP1407,Operations,330499,1,Female,Yes,Average,High School
+EMP1408,Operations,531228,14,Female,No,High,Diploma
+EMP1409,IT,1155337,6,Male,No,Low,Bachalor's
+EMP1410,HR,506664,22,Female,Yes,Low,Diploma
+EMP1411,IT,89463,18,Male,Yes,Average,Diploma
+EMP1412,IT,183985,24,Female,Yes,Excellent,Master's
+EMP1413,HR,959544,21,Male,Yes,High,Diploma
+EMP1414,Finance,696451,20,Female,Yes,High,Master's
+EMP1415,Operations,902503,0,Male,Yes,Low,High School
+EMP1416,Marketing,184012,1,Female,Yes,High,Diploma
+EMP1417,Marketing,993103,9,Male,No,Excellent,Master's
+EMP1418,HR,1034081,2,Male,Yes,Low,High School
+EMP1419,Operations,1128275,14,Male,Yes,Average,Master's
+EMP1420,HR,289341,0,Male,Yes,High,Bachalor's
+EMP1421,IT,496679,6,Female,No,Average,Master's
+EMP1422,Operations,180478,21,Male,No,Average,High School
+EMP1423,Operations,1080643,17,Male,Yes,High,Master's
+EMP1424,HR,1071386,6,Male,Yes,Excellent,Master's
+EMP1425,HR,907927,23,Female,No,High,Master's
+EMP1426,Marketing,943715,22,Female,No,Excellent,Diploma
+EMP1427,Marketing,998844,20,Female,No,Average,Bachalor's
+EMP1428,Sales,1063310,12,Male,Yes,High,Master's
+EMP1429,Finance,909476,7,Male,No,Average,Bachalor's
+EMP1430,HR,800820,8,Male,No,High,PhD
+EMP1431,Finance,578475,12,Female,Yes,Average,PhD
+EMP1432,Sales,842042,14,Female,No,Average,PhD
+EMP1433,Marketing,669751,1,Female,No,High,High School
+EMP1434,Sales,241051,10,Female,Yes,High,PhD
+EMP1435,IT,128317,21,Male,No,High,Diploma
+EMP1436,Operations,180616,10,Male,No,High,High School
+EMP1437,Sales,185777,3,Male,No,Excellent,Diploma
+EMP1438,Operations,580003,1,Female,Yes,High,Master's
+EMP1439,Finance,957078,16,Male,No,Low,Diploma
+EMP1440,Sales,454668,14,Female,Yes,Excellent,Bachalor's
+EMP1441,Sales,297849,3,Female,No,Low,High School
+EMP1442,IT,1175718,1,Female,No,High,Master's
+EMP1443,Sales,1039511,8,Male,Yes,Average,High School
+EMP1444,Finance,27149,5,Female,Yes,Excellent,PhD
+EMP1445,IT,196191,2,Male,Yes,High,High School
+EMP1446,IT,969144,22,Female,No,Average,Bachalor's
+EMP1447,Marketing,171992,16,Male,No,Low,Diploma
+EMP1448,IT,735944,14,Male,Yes,Average,High School
+EMP1449,IT,856293,16,Male,Yes,Low,High School
+EMP1450,Finance,639299,12,Male,No,High,Bachalor's
+EMP1451,Sales,959134,2,Female,No,High,Diploma
+EMP1452,Operations,309237,8,Male,No,Excellent,High School
+EMP1453,Sales,970339,4,Female,No,Low,High School
+EMP1454,Sales,963046,11,Male,No,High,Bachalor's
+EMP1455,Marketing,760333,18,Female,No,Low,Diploma
+EMP1456,Sales,946904,18,Female,Yes,Excellent,Diploma
+EMP1457,HR,427803,22,Female,No,Average,High School
+EMP1458,Marketing,633454,7,Female,No,High,Master's
+EMP1459,IT,393154,1,Male,Yes,Average,Bachalor's
+EMP1460,IT,507654,23,Female,Yes,Low,High School
+EMP1461,HR,567019,25,Female,No,High,Bachalor's
+EMP1462,IT,504633,9,Male,No,Low,High School
+EMP1463,Operations,844269,25,Male,No,Excellent,Diploma
+EMP1464,IT,1178542,10,Female,No,Excellent,Master's
+EMP1465,Marketing,190637,11,Male,Yes,Average,PhD
+EMP1466,IT,376871,15,Male,Yes,Low,Diploma
+EMP1467,Sales,326996,18,Male,Yes,High,Master's
+EMP1468,IT,1162428,25,Female,No,Excellent,High School
+EMP1469,IT,1198973,5,Female,No,Excellent,High School
+EMP1470,Operations,72168,2,Male,No,Excellent,PhD
+EMP1471,Operations,889899,18,Female,Yes,Low,Bachalor's
+EMP1472,Operations,553773,1,Male,Yes,Excellent,PhD
+EMP1473,Operations,851681,19,Female,Yes,High,High School
+EMP1474,HR,125342,25,Female,No,Low,Bachalor's
+EMP1475,Finance,808405,7,Male,Yes,High,Diploma
+EMP1476,Operations,337019,23,Male,No,Average,High School
+EMP1477,Finance,1044599,6,Female,Yes,High,Bachalor's
+EMP1478,IT,1192496,21,Male,Yes,High,PhD
+EMP1479,Marketing,1105674,12,Female,No,Excellent,High School
+EMP1480,HR,33364,8,Male,No,Excellent,Master's
+EMP1481,Operations,848479,18,Female,No,Excellent,Bachalor's
+EMP1482,Sales,146707,20,Female,No,Excellent,PhD
+EMP1483,IT,626411,8,Male,No,Excellent,Bachalor's
+EMP1484,Finance,1051452,18,Female,Yes,Excellent,High School
+EMP1485,Marketing,139892,22,Male,No,High,Diploma
+EMP1486,Finance,676989,21,Female,Yes,Average,Master's
+EMP1487,Marketing,948750,8,Female,Yes,High,PhD
+EMP1488,HR,257295,6,Male,Yes,Low,PhD
+EMP1489,Finance,101954,1,Male,Yes,Excellent,Master's
+EMP1490,HR,711043,5,Female,Yes,Low,Master's
+EMP1491,HR,546020,15,Female,Yes,Average,High School
+EMP1492,IT,422402,2,Female,Yes,High,High School
+EMP1493,Operations,1084168,4,Female,No,Excellent,High School
+EMP1494,IT,1165465,1,Male,No,Excellent,Master's
+EMP1495,IT,304598,12,Male,No,Low,Master's
+EMP1496,IT,944742,23,Male,Yes,Excellent,Master's
+EMP1497,Operations,122846,7,Female,No,Low,Diploma
+EMP1498,Operations,1137594,8,Male,Yes,High,Master's
+EMP1499,Marketing,1139643,25,Male,No,Excellent,High School
+EMP1500,Finance,94724,18,Male,No,High,Master's
+EMP1501,HR,841224,18,Female,Yes,Average,Bachalor's
+EMP1502,Sales,836611,21,Female,No,Average,Diploma
+EMP1503,Operations,700456,13,Female,No,Low,PhD
+EMP1504,Operations,416690,5,Female,No,Low,PhD
+EMP1505,Finance,869813,3,Male,No,High,PhD
+EMP1506,Finance,999014,22,Female,No,Low,High School
+EMP1507,Finance,373826,7,Female,No,Excellent,Bachalor's
+EMP1508,Sales,322581,12,Female,No,Low,Diploma
+EMP1509,IT,294108,7,Male,No,Low,PhD
+EMP1510,HR,36281,15,Female,No,Average,PhD
+EMP1511,Finance,925189,3,Female,Yes,Low,Diploma
+EMP1512,IT,274227,25,Male,No,Low,Bachalor's
+EMP1513,Operations,392577,10,Male,Yes,Average,Master's
+EMP1514,IT,406349,10,Male,No,Excellent,Diploma
+EMP1515,Sales,470264,17,Male,Yes,Low,Bachalor's
+EMP1516,Sales,614207,2,Female,No,Low,PhD
+EMP1517,Finance,1139313,8,Female,No,Average,High School
+EMP1518,Sales,1104648,20,Male,No,Low,High School
+EMP1519,Finance,440130,19,Male,Yes,High,Diploma
+EMP1520,Finance,1029938,17,Male,No,Average,Master's
+EMP1521,HR,705590,5,Female,No,Excellent,High School
+EMP1522,Marketing,206937,21,Male,Yes,High,Diploma
+EMP1523,IT,420917,14,Female,No,Average,Bachalor's
+EMP1524,IT,476628,9,Female,No,High,Bachalor's
+EMP1525,IT,215927,15,Male,Yes,Low,Bachalor's
+EMP1526,Operations,541916,13,Female,Yes,Average,Diploma
+EMP1527,IT,473030,17,Male,No,Low,High School
+EMP1528,HR,220557,25,Female,No,Average,Diploma
+EMP1529,Operations,484741,0,Male,Yes,High,Diploma
+EMP1530,Finance,496149,20,Female,Yes,Excellent,Master's
+EMP1531,Operations,269457,17,Female,Yes,Average,Master's
+EMP1532,IT,590163,11,Male,Yes,High,Bachalor's
+EMP1533,IT,100275,4,Male,No,High,High School
+EMP1534,Operations,207934,5,Female,Yes,High,Master's
+EMP1535,Sales,785890,9,Female,No,Average,Master's
+EMP1536,Operations,490834,8,Male,No,Low,High School
+EMP1537,HR,946641,17,Female,Yes,Excellent,Diploma
+EMP1538,Finance,93532,9,Male,Yes,Average,Master's
+EMP1539,Marketing,110206,11,Female,Yes,Average,Master's
+EMP1540,Operations,550000,23,Male,Yes,Excellent,High School
+EMP1541,HR,637761,23,Female,Yes,Average,High School
+EMP1542,HR,229902,23,Female,Yes,Low,High School
+EMP1543,HR,546729,13,Female,No,Low,Bachalor's
+EMP1544,Operations,1096728,14,Female,Yes,High,PhD
+EMP1545,Marketing,988273,21,Female,No,Excellent,High School
+EMP1546,Operations,644784,2,Female,No,Average,Bachalor's
+EMP1547,Marketing,1118746,0,Male,Yes,High,Bachalor's
+EMP1548,Sales,566549,10,Male,No,Average,High School
+EMP1549,Sales,676380,13,Male,No,Average,Diploma
+EMP1550,Sales,295245,13,Male,Yes,Low,High School
+EMP1551,IT,989633,1,Male,Yes,Average,Diploma
+EMP1552,Operations,116678,22,Male,Yes,Average,Master's
+EMP1553,HR,100176,18,Female,Yes,Average,Bachalor's
+EMP1554,HR,667101,0,Female,Yes,High,PhD
+EMP1555,Operations,784873,5,Male,Yes,Excellent,PhD
+EMP1556,Finance,1187886,19,Male,Yes,Average,High School
+EMP1557,Marketing,345446,6,Female,No,Average,Diploma
+EMP1558,Marketing,294268,10,Female,Yes,High,High School
+EMP1559,Finance,496220,15,Male,Yes,High,Master's
+EMP1560,IT,539391,18,Male,No,Excellent,Master's
+EMP1561,Sales,45563,23,Female,Yes,Low,PhD
+EMP1562,Finance,1097217,13,Male,Yes,Low,PhD
+EMP1563,Marketing,600086,25,Female,Yes,High,High School
+EMP1564,HR,621245,12,Male,Yes,Average,Bachalor's
+EMP1565,Marketing,839367,11,Male,No,High,Master's
+EMP1566,IT,262958,21,Male,No,High,Master's
+EMP1567,Marketing,552316,22,Male,Yes,Average,High School
+EMP1568,IT,583169,12,Female,Yes,Excellent,Diploma
+EMP1569,Marketing,255535,2,Female,No,High,Bachalor's
+EMP1570,HR,708846,7,Female,Yes,Excellent,Diploma
+EMP1571,IT,862700,3,Male,No,High,Diploma
+EMP1572,Marketing,869489,22,Male,No,Low,Diploma
+EMP1573,Finance,554456,24,Female,Yes,Average,Bachalor's
+EMP1574,Operations,886525,20,Male,Yes,Low,Bachalor's
+EMP1575,Operations,269053,5,Female,Yes,Excellent,High School
+EMP1576,Marketing,237620,17,Female,Yes,Low,Master's
+EMP1577,IT,885257,0,Male,Yes,Low,Diploma
+EMP1578,IT,965250,22,Male,No,Low,Master's
+EMP1579,IT,73451,10,Male,No,Low,High School
+EMP1580,Operations,977548,20,Male,No,Excellent,Bachalor's
+EMP1581,Finance,449699,4,Female,Yes,High,PhD
+EMP1582,Sales,950858,24,Female,No,Average,Bachalor's
+EMP1583,HR,1045995,8,Female,Yes,Excellent,PhD
+EMP1584,HR,964080,20,Female,No,High,Master's
+EMP1585,IT,925417,15,Male,Yes,Excellent,Master's
+EMP1586,IT,1099158,10,Male,Yes,Excellent,High School
+EMP1587,Finance,1197030,6,Male,No,Low,High School
+EMP1588,Sales,922515,22,Female,No,Low,High School
+EMP1589,IT,851206,20,Female,No,Average,High School
+EMP1590,Marketing,766986,9,Female,No,Low,PhD
+EMP1591,Marketing,884589,11,Female,No,Excellent,PhD
+EMP1592,IT,1084944,17,Male,Yes,Excellent,Diploma
+EMP1593,IT,510357,5,Female,No,High,Diploma
+EMP1594,HR,282147,5,Female,No,High,Bachalor's
+EMP1595,Marketing,867731,4,Female,No,Excellent,Diploma
+EMP1596,HR,717532,9,Female,Yes,Average,Master's
+EMP1597,Finance,1182040,22,Male,Yes,Average,Master's
+EMP1598,Marketing,576288,11,Female,No,High,High School
+EMP1599,Operations,1090926,12,Female,No,Low,PhD
+EMP1600,Sales,1086264,24,Female,No,Average,Master's
+EMP1601,Sales,631731,10,Male,No,Average,High School
+EMP1602,Finance,733952,19,Male,Yes,Average,PhD
+EMP1603,Marketing,61875,8,Female,No,High,Master's
+EMP1604,IT,331121,25,Female,No,Average,Diploma
+EMP1605,Marketing,531238,0,Male,Yes,Excellent,Bachalor's
+EMP1606,Operations,68387,21,Male,Yes,Low,PhD
+EMP1607,Operations,383100,0,Female,No,Excellent,PhD
+EMP1608,IT,726547,10,Female,Yes,Low,Master's
+EMP1609,Marketing,1180897,12,Female,Yes,High,Diploma
+EMP1610,IT,505884,20,Male,Yes,Low,Diploma
+EMP1611,Operations,286056,7,Female,No,Low,PhD
+EMP1612,Operations,101601,5,Male,No,High,Master's
+EMP1613,HR,1146964,17,Male,Yes,Low,High School
+EMP1614,Marketing,844834,20,Female,Yes,Excellent,High School
+EMP1615,HR,992381,3,Male,No,Low,High School
+EMP1616,Marketing,595338,7,Female,No,High,High School
+EMP1617,Finance,274361,20,Male,No,Low,High School
+EMP1618,IT,650497,16,Male,Yes,Low,Bachalor's
+EMP1619,Operations,938282,10,Female,No,Average,Diploma
+EMP1620,Finance,99037,17,Female,Yes,High,High School
+EMP1621,IT,680291,1,Male,Yes,Low,PhD
+EMP1622,Operations,92893,23,Male,No,Excellent,PhD
+EMP1623,Finance,299473,5,Male,Yes,Average,High School
+EMP1624,IT,418739,2,Male,Yes,Excellent,PhD
+EMP1625,Sales,439885,5,Male,No,High,Diploma
+EMP1626,Operations,551832,7,Female,No,High,High School
+EMP1627,Finance,384253,22,Female,Yes,Average,Bachalor's
+EMP1628,Sales,686762,21,Male,Yes,Excellent,PhD
+EMP1629,Finance,450635,10,Male,No,Low,High School
+EMP1630,Sales,28121,24,Female,Yes,Average,Diploma
+EMP1631,Operations,370656,1,Female,No,Low,Master's
+EMP1632,Marketing,633149,23,Female,No,High,Diploma
+EMP1633,Operations,1179469,20,Male,No,Excellent,Diploma
+EMP1634,Finance,28600,19,Male,No,Average,PhD
+EMP1635,Sales,430496,9,Female,Yes,Average,Diploma
+EMP1636,Operations,343997,3,Female,No,High,Master's
+EMP1637,Finance,849957,4,Male,Yes,Excellent,PhD
+EMP1638,Operations,529297,11,Female,No,Average,High School
+EMP1639,Sales,589976,17,Male,No,Average,Bachalor's
+EMP1640,Sales,196495,21,Female,Yes,Average,PhD
+EMP1641,Operations,722960,2,Male,Yes,High,Master's
+EMP1642,Sales,414783,3,Male,No,High,High School
+EMP1643,Operations,827614,19,Female,Yes,Low,PhD
+EMP1644,Marketing,761135,11,Male,No,Average,Bachalor's
+EMP1645,IT,1154880,25,Male,Yes,Low,PhD
+EMP1646,IT,889964,15,Female,Yes,Average,Master's
+EMP1647,Sales,611329,3,Male,No,Low,Diploma
+EMP1648,Sales,1086525,20,Female,Yes,Excellent,Diploma
+EMP1649,Sales,844050,8,Female,Yes,Low,High School
+EMP1650,Marketing,697698,14,Female,No,High,Bachalor's
+EMP1651,Sales,800735,19,Male,No,Excellent,High School
+EMP1652,Operations,174258,19,Male,No,Excellent,Bachalor's
+EMP1653,Marketing,822765,16,Female,No,Low,Diploma
+EMP1654,IT,444220,11,Female,Yes,Low,Bachalor's
+EMP1655,IT,259032,18,Female,Yes,Low,PhD
+EMP1656,Finance,325823,22,Male,Yes,Excellent,Diploma
+EMP1657,IT,926773,4,Female,No,Excellent,Master's
+EMP1658,HR,785956,12,Female,No,Average,Master's
+EMP1659,IT,1174848,0,Male,No,Average,High School
+EMP1660,HR,229071,10,Male,No,Low,Diploma
+EMP1661,Finance,169674,25,Male,No,Average,PhD
+EMP1662,Sales,441960,19,Female,Yes,High,High School
+EMP1663,HR,794954,4,Female,Yes,Average,PhD
+EMP1664,Marketing,42577,18,Female,Yes,Excellent,Master's
+EMP1665,HR,90385,12,Female,Yes,High,Bachalor's
+EMP1666,Operations,1065691,21,Male,Yes,Low,Master's
+EMP1667,IT,194285,4,Male,No,Average,Diploma
+EMP1668,Sales,983831,21,Female,Yes,Average,Bachalor's
+EMP1669,HR,106015,13,Female,Yes,Low,Bachalor's
+EMP1670,IT,775518,18,Male,No,Average,Master's
+EMP1671,HR,53848,19,Female,No,High,Bachalor's
+EMP1672,HR,1122125,12,Female,Yes,High,PhD
+EMP1673,Finance,597542,7,Male,Yes,Average,Diploma
+EMP1674,Finance,938409,13,Female,No,High,PhD
+EMP1675,IT,1082670,17,Female,Yes,High,Diploma
+EMP1676,Sales,1028194,15,Male,No,Excellent,Diploma
+EMP1677,HR,834780,7,Male,No,Low,PhD
+EMP1678,Marketing,217665,17,Female,No,Low,High School
+EMP1679,Sales,1130877,20,Male,No,Excellent,Bachalor's
+EMP1680,Marketing,184461,24,Female,Yes,Average,PhD
+EMP1681,Finance,41951,20,Female,No,Average,Diploma
+EMP1682,Finance,876559,22,Male,No,Excellent,Diploma
+EMP1683,Operations,121121,9,Male,Yes,Average,PhD
+EMP1684,Operations,1133113,23,Female,Yes,Average,Diploma
+EMP1685,Operations,794331,12,Female,Yes,Low,Diploma
+EMP1686,HR,393528,24,Female,No,Low,Diploma
+EMP1687,Operations,308333,22,Male,Yes,Excellent,Master's
+EMP1688,IT,726527,3,Male,No,Excellent,Master's
+EMP1689,IT,1013607,5,Male,No,Excellent,High School
+EMP1690,Marketing,52116,12,Female,No,Average,PhD
+EMP1691,HR,478890,11,Male,Yes,Excellent,High School
+EMP1692,HR,26714,8,Male,No,Average,Master's
+EMP1693,HR,80927,12,Male,Yes,Low,High School
+EMP1694,Operations,1145075,24,Female,No,Excellent,Bachalor's
+EMP1695,Operations,410041,1,Female,No,Average,Master's
+EMP1696,Sales,573160,12,Male,Yes,Average,Diploma
+EMP1697,HR,548387,1,Female,Yes,Average,High School
+EMP1698,Sales,821913,16,Female,Yes,High,Master's
+EMP1699,HR,244020,14,Female,Yes,Excellent,High School
+EMP1700,IT,851572,3,Female,No,Low,High School
+EMP1701,IT,1025452,7,Female,Yes,Low,Diploma
+EMP1702,Sales,838395,9,Male,No,High,Master's
+EMP1703,Operations,810807,0,Female,No,Excellent,Bachalor's
+EMP1704,HR,233465,15,Male,No,Average,Diploma
+EMP1705,IT,94317,23,Female,No,Excellent,Bachalor's
+EMP1706,IT,225906,7,Male,Yes,Excellent,PhD
+EMP1707,IT,875403,11,Male,No,Average,Bachalor's
+EMP1708,Operations,125105,21,Female,Yes,Average,Diploma
+EMP1709,HR,269125,4,Male,Yes,Low,High School
+EMP1710,IT,966340,21,Male,No,Excellent,High School
+EMP1711,Operations,1121629,22,Male,No,Low,Diploma
+EMP1712,Finance,1087367,4,Female,Yes,Low,High School
+EMP1713,Sales,158971,18,Female,Yes,High,High School
+EMP1714,HR,931945,2,Male,Yes,High,Diploma
+EMP1715,HR,359759,20,Male,Yes,High,Master's
+EMP1716,IT,673776,11,Female,No,Excellent,High School
+EMP1717,IT,987396,15,Male,No,Low,PhD
+EMP1718,HR,954286,3,Male,Yes,Excellent,Diploma
+EMP1719,Finance,735551,17,Male,Yes,High,Master's
+EMP1720,IT,79883,2,Female,No,Low,Master's
+EMP1721,Sales,951953,5,Female,Yes,Excellent,High School
+EMP1722,Finance,280220,3,Female,No,Average,High School
+EMP1723,Marketing,423714,15,Male,Yes,Low,PhD
+EMP1724,Marketing,834252,20,Male,No,High,Bachalor's
+EMP1725,Marketing,642995,9,Female,No,High,High School
+EMP1726,Finance,157188,19,Male,Yes,Low,Bachalor's
+EMP1727,IT,826111,5,Male,Yes,High,Master's
+EMP1728,Sales,96158,16,Female,Yes,Excellent,PhD
+EMP1729,Operations,945305,18,Female,Yes,Average,Bachalor's
+EMP1730,Operations,699478,16,Female,No,Excellent,Master's
+EMP1731,HR,677004,12,Female,Yes,Excellent,High School
+EMP1732,IT,492685,15,Female,No,Excellent,Master's
+EMP1733,Sales,1127593,16,Male,No,Excellent,Diploma
+EMP1734,Marketing,911792,0,Female,No,Average,Diploma
+EMP1735,HR,1190118,15,Male,Yes,Low,High School
+EMP1736,Finance,293826,23,Male,No,Average,Master's
+EMP1737,Marketing,356605,3,Male,Yes,High,Bachalor's
+EMP1738,Marketing,51542,17,Female,No,Low,PhD
+EMP1739,Marketing,491175,8,Female,No,Excellent,Bachalor's
+EMP1740,HR,995408,0,Male,No,Average,Diploma
+EMP1741,Marketing,202859,11,Female,No,Excellent,Master's
+EMP1742,Finance,478346,0,Male,No,Low,Bachalor's
+EMP1743,HR,791469,10,Female,No,Average,Diploma
+EMP1744,Marketing,1078746,18,Female,Yes,High,Diploma
+EMP1745,Marketing,418757,16,Female,Yes,Low,PhD
+EMP1746,Operations,846679,4,Female,Yes,High,PhD
+EMP1747,IT,700025,12,Female,Yes,Excellent,PhD
+EMP1748,Finance,611161,10,Male,No,Excellent,High School
+EMP1749,Marketing,157702,13,Female,Yes,Excellent,PhD
+EMP1750,HR,512267,18,Male,No,Average,PhD
+EMP1751,Sales,430662,5,Female,Yes,Low,Master's
+EMP1752,IT,878351,4,Male,Yes,High,High School
+EMP1753,Sales,840564,21,Male,Yes,Average,PhD
+EMP1754,Marketing,113212,3,Male,No,Average,Bachalor's
+EMP1755,HR,553581,20,Male,No,Excellent,High School
+EMP1756,Sales,326232,25,Female,Yes,Average,Bachalor's
+EMP1757,Marketing,930674,20,Female,No,Average,Bachalor's
+EMP1758,HR,106626,3,Male,No,Excellent,Diploma
+EMP1759,HR,427139,20,Male,No,Excellent,Diploma
+EMP1760,Finance,883957,13,Female,Yes,Excellent,Diploma
+EMP1761,Finance,570125,0,Male,Yes,Low,Diploma
+EMP1762,IT,372844,2,Female,Yes,Excellent,PhD
+EMP1763,IT,235739,15,Male,Yes,Excellent,High School
+EMP1764,Marketing,819448,16,Male,Yes,Low,Diploma
+EMP1765,Sales,614215,10,Female,Yes,High,Master's
+EMP1766,Sales,1086563,7,Male,Yes,Excellent,Diploma
+EMP1767,IT,188727,14,Female,No,Average,Bachalor's
+EMP1768,Sales,254331,6,Male,Yes,Low,High School
+EMP1769,IT,1194680,24,Female,No,High,High School
+EMP1770,Sales,831430,11,Female,No,Low,Bachalor's
+EMP1771,Sales,154836,17,Male,Yes,Average,Bachalor's
+EMP1772,Operations,1183660,23,Female,Yes,Average,Bachalor's
+EMP1773,IT,464388,25,Female,Yes,Excellent,PhD
+EMP1774,IT,854970,12,Female,No,Low,Master's
+EMP1775,HR,771275,13,Male,Yes,High,Diploma
+EMP1776,Marketing,1081170,7,Female,No,Low,PhD
+EMP1777,Sales,225012,4,Male,Yes,Average,Bachalor's
+EMP1778,IT,336077,16,Female,No,Excellent,High School
+EMP1779,Operations,56533,18,Male,Yes,Excellent,High School
+EMP1780,Operations,408078,9,Male,No,Excellent,Master's
+EMP1781,Marketing,746191,7,Male,No,Excellent,High School
+EMP1782,IT,1142660,15,Female,Yes,Low,High School
+EMP1783,IT,39158,25,Male,No,High,Bachalor's
+EMP1784,Sales,1184289,10,Male,No,Excellent,Master's
+EMP1785,Operations,238759,25,Female,No,Excellent,Master's
+EMP1786,Sales,353457,0,Female,Yes,High,Bachalor's
+EMP1787,Operations,803794,2,Male,Yes,Low,Diploma
+EMP1788,HR,490409,17,Female,Yes,Average,High School
+EMP1789,HR,393255,17,Female,Yes,Low,Master's
+EMP1790,Marketing,206697,5,Male,No,High,High School
+EMP1791,Marketing,622027,1,Male,Yes,High,High School
+EMP1792,HR,610618,25,Male,No,Average,PhD
+EMP1793,Operations,286952,11,Male,No,Excellent,Diploma
+EMP1794,Operations,425871,17,Female,Yes,Average,High School
+EMP1795,Finance,1055221,3,Female,Yes,Low,High School
+EMP1796,IT,1172720,15,Male,No,Excellent,High School
+EMP1797,Operations,891266,0,Female,No,Excellent,Master's
+EMP1798,Sales,1162558,15,Male,No,Average,PhD
+EMP1799,Operations,618747,1,Male,No,High,PhD
+EMP1800,Operations,519357,14,Female,Yes,Excellent,Diploma
+EMP1801,IT,615204,13,Female,Yes,Low,Bachalor's
+EMP1802,Operations,90915,22,Male,Yes,Average,Diploma
+EMP1803,Finance,1131296,0,Male,Yes,Excellent,Bachalor's
+EMP1804,Sales,627655,18,Female,No,Low,Master's
+EMP1805,Sales,259626,15,Female,Yes,High,PhD
+EMP1806,Sales,307257,13,Female,Yes,Average,Bachalor's
+EMP1807,Finance,1113373,13,Male,No,Low,Diploma
+EMP1808,HR,995697,21,Male,No,Average,Diploma
+EMP1809,Finance,494459,0,Female,No,Excellent,Bachalor's
+EMP1810,Operations,593254,25,Male,No,Excellent,Bachalor's
+EMP1811,Finance,1021299,23,Female,Yes,Low,Master's
+EMP1812,Operations,800686,7,Female,Yes,High,PhD
+EMP1813,IT,703050,21,Female,Yes,Excellent,Master's
+EMP1814,Sales,323354,9,Female,No,Low,Master's
+EMP1815,Operations,1136164,18,Male,Yes,Excellent,High School
+EMP1816,Finance,758484,25,Female,No,High,High School
+EMP1817,Sales,227034,1,Female,No,Excellent,High School
+EMP1818,IT,47484,8,Female,No,Low,Diploma
+EMP1819,Marketing,407995,3,Male,No,Average,Bachalor's
+EMP1820,Marketing,271690,19,Female,Yes,High,Diploma
+EMP1821,Finance,662407,15,Male,Yes,Average,Diploma
+EMP1822,Operations,1004227,0,Female,Yes,High,Bachalor's
+EMP1823,IT,1019026,8,Female,No,Average,High School
+EMP1824,IT,1157513,5,Female,Yes,Low,Master's
+EMP1825,Marketing,141266,17,Female,Yes,Excellent,Diploma
+EMP1826,Operations,718759,3,Female,No,Average,Master's
+EMP1827,HR,876141,7,Male,No,Excellent,Bachalor's
+EMP1828,Finance,742849,8,Male,No,Average,High School
+EMP1829,Marketing,544966,6,Male,No,Excellent,Bachalor's
+EMP1830,Operations,320695,20,Male,No,High,High School
+EMP1831,IT,968466,18,Male,No,Average,Diploma
+EMP1832,Marketing,1047944,21,Male,No,Low,High School
+EMP1833,Sales,478205,22,Male,Yes,Average,Diploma
+EMP1834,Finance,562526,1,Male,Yes,Low,Bachalor's
+EMP1835,Marketing,473516,5,Female,No,Low,High School
+EMP1836,HR,404516,7,Female,No,High,PhD
+EMP1837,Marketing,831423,15,Male,Yes,High,High School
+EMP1838,IT,869201,14,Male,No,High,PhD
+EMP1839,Operations,470909,9,Male,Yes,Excellent,Diploma
+EMP1840,Marketing,1044456,23,Male,Yes,Average,Bachalor's
+EMP1841,Sales,1196214,25,Female,Yes,Low,Bachalor's
+EMP1842,Sales,995799,14,Female,No,Excellent,Diploma
+EMP1843,Operations,408336,10,Male,Yes,Average,High School
+EMP1844,IT,695370,9,Male,Yes,High,PhD
+EMP1845,Marketing,144820,18,Male,No,Low,PhD
+EMP1846,Finance,760682,24,Female,Yes,Excellent,Bachalor's
+EMP1847,IT,1039521,1,Male,Yes,Low,PhD
+EMP1848,Marketing,981032,10,Female,Yes,Average,Master's
+EMP1849,IT,890178,10,Male,No,Low,Master's
+EMP1850,Operations,479059,10,Male,No,Excellent,Bachalor's
+EMP1851,HR,369849,1,Male,Yes,Excellent,High School
+EMP1852,Sales,919254,5,Female,No,High,High School
+EMP1853,HR,409922,7,Female,Yes,Low,Diploma
+EMP1854,Marketing,362452,12,Female,Yes,Low,High School
+EMP1855,IT,63090,13,Female,No,High,High School
+EMP1856,HR,391130,19,Male,No,Low,PhD
+EMP1857,IT,581596,0,Female,Yes,Average,Master's
+EMP1858,Marketing,184704,22,Male,Yes,Average,Bachalor's
+EMP1859,HR,890183,12,Female,Yes,Excellent,Diploma
+EMP1860,Marketing,1051344,24,Female,No,Excellent,PhD
+EMP1861,Operations,287588,24,Male,Yes,Excellent,Master's
+EMP1862,IT,295141,3,Female,No,High,Master's
+EMP1863,Marketing,931456,14,Female,No,Excellent,Diploma
+EMP1864,IT,629090,8,Male,No,Average,Bachalor's
+EMP1865,Marketing,1112043,11,Male,Yes,Average,Master's
+EMP1866,Sales,112305,15,Male,Yes,Low,PhD
+EMP1867,Marketing,1152830,14,Male,Yes,Excellent,Diploma
+EMP1868,HR,242221,20,Male,No,Average,PhD
+EMP1869,Marketing,422150,14,Male,Yes,Average,High School
+EMP1870,HR,46339,2,Male,No,High,PhD
+EMP1871,Finance,315950,7,Female,Yes,Low,Master's
+EMP1872,Marketing,951241,18,Male,No,Average,PhD
+EMP1873,HR,815004,11,Female,Yes,High,Master's
+EMP1874,Operations,669169,21,Male,No,High,Diploma
+EMP1875,HR,819296,7,Female,No,High,Bachalor's
+EMP1876,HR,1188635,4,Male,Yes,High,Diploma
+EMP1877,Sales,464941,22,Female,No,Excellent,Diploma
+EMP1878,IT,976032,1,Female,Yes,High,Master's
+EMP1879,IT,267575,2,Female,Yes,Excellent,Bachalor's
+EMP1880,Operations,1139721,8,Male,No,High,Master's
+EMP1881,HR,1178473,7,Male,No,Excellent,Bachalor's
+EMP1882,HR,889953,20,Female,No,High,Diploma
+EMP1883,Finance,168369,7,Male,Yes,Average,Diploma
+EMP1884,Finance,76812,20,Female,Yes,Low,PhD
+EMP1885,Marketing,1094508,13,Male,No,Low,PhD
+EMP1886,HR,149513,3,Female,Yes,High,Diploma
+EMP1887,HR,790494,9,Female,No,High,High School
+EMP1888,IT,508485,25,Female,Yes,Excellent,Diploma
+EMP1889,HR,802144,4,Female,Yes,Low,Diploma
+EMP1890,HR,676130,9,Female,Yes,Average,Bachalor's
+EMP1891,Sales,901606,9,Male,Yes,High,Master's
+EMP1892,HR,666761,4,Female,Yes,Excellent,Bachalor's
+EMP1893,IT,884391,9,Female,No,Average,Diploma
+EMP1894,HR,208056,3,Female,Yes,Excellent,Diploma
+EMP1895,Marketing,1118872,25,Male,No,Excellent,Master's
+EMP1896,Sales,614591,16,Male,Yes,Low,Bachalor's
+EMP1897,IT,636973,11,Male,Yes,Average,Master's
+EMP1898,Sales,690325,20,Male,Yes,High,Diploma
+EMP1899,Finance,163425,16,Male,No,Excellent,High School
+EMP1900,Sales,139493,2,Male,No,High,Master's
+EMP1901,IT,1127484,5,Male,Yes,Low,Diploma
+EMP1902,Operations,77403,10,Male,No,Low,Diploma
+EMP1903,IT,493263,5,Male,Yes,Excellent,Diploma
+EMP1904,Marketing,1015112,8,Male,No,Low,Bachalor's
+EMP1905,Operations,307637,22,Female,No,High,Bachalor's
+EMP1906,Operations,863806,23,Male,Yes,Low,Diploma
+EMP1907,Sales,63010,1,Male,No,High,PhD
+EMP1908,HR,195603,25,Male,Yes,Average,PhD
+EMP1909,Operations,270061,9,Female,No,Average,Diploma
+EMP1910,Marketing,838563,24,Male,Yes,Excellent,Master's
+EMP1911,IT,356848,24,Male,Yes,High,Diploma
+EMP1912,Finance,902082,24,Female,Yes,Low,High School
+EMP1913,Marketing,522855,13,Female,No,Excellent,Bachalor's
+EMP1914,IT,1106339,5,Female,No,Low,Diploma
+EMP1915,HR,844582,11,Female,Yes,Average,High School
+EMP1916,Finance,1184674,11,Female,No,High,High School
+EMP1917,Operations,228731,18,Female,Yes,Excellent,High School
+EMP1918,Finance,1166516,1,Male,No,High,Bachalor's
+EMP1919,IT,100908,2,Female,No,Excellent,Diploma
+EMP1920,Marketing,175048,23,Female,No,High,High School
+EMP1921,IT,53901,0,Female,No,High,PhD
+EMP1922,Finance,476352,10,Female,Yes,Low,Bachalor's
+EMP1923,Marketing,456507,2,Male,Yes,High,Diploma
+EMP1924,Operations,593252,7,Female,No,Average,High School
+EMP1925,Marketing,1109766,15,Male,No,Average,PhD
+EMP1926,Sales,228017,8,Female,Yes,High,High School
+EMP1927,Operations,949457,9,Female,Yes,High,PhD
+EMP1928,HR,680594,16,Female,No,High,Diploma
+EMP1929,Operations,107968,4,Male,Yes,Low,High School
+EMP1930,IT,682454,6,Female,No,Excellent,Master's
+EMP1931,IT,814459,23,Female,Yes,Average,Diploma
+EMP1932,Marketing,172414,20,Female,Yes,Excellent,Bachalor's
+EMP1933,Operations,438161,0,Female,Yes,Average,Diploma
+EMP1934,IT,665047,10,Female,Yes,Excellent,Master's
+EMP1935,Operations,922432,25,Female,No,Low,Master's
+EMP1936,Operations,749838,6,Male,No,Excellent,High School
+EMP1937,Marketing,159946,8,Male,No,Low,Master's
+EMP1938,Marketing,183905,9,Male,No,Average,Bachalor's
+EMP1939,IT,741340,4,Female,Yes,High,Master's
+EMP1940,IT,109410,22,Male,Yes,Excellent,Diploma
+EMP1941,Marketing,697431,6,Male,Yes,Low,PhD
+EMP1942,Sales,579971,11,Male,No,Low,PhD
+EMP1943,IT,982894,5,Female,No,Low,High School
+EMP1944,HR,680828,10,Male,No,Excellent,Bachalor's
+EMP1945,Operations,1094455,22,Female,No,Low,PhD
+EMP1946,HR,119659,17,Female,Yes,Excellent,High School
+EMP1947,Operations,481226,5,Male,Yes,High,Diploma
+EMP1948,HR,174250,1,Male,Yes,Low,High School
+EMP1949,Marketing,861644,6,Female,Yes,Excellent,Diploma
+EMP1950,HR,630554,4,Female,Yes,Excellent,Diploma
+EMP1951,Finance,536190,20,Female,No,Average,Diploma
+EMP1952,HR,690770,9,Female,Yes,High,High School
+EMP1953,HR,880001,2,Female,Yes,High,Diploma
+EMP1954,Finance,688832,23,Male,Yes,High,Master's
+EMP1955,Marketing,331427,13,Male,No,High,Diploma
+EMP1956,Finance,772653,5,Male,Yes,High,PhD
+EMP1957,IT,474585,3,Male,No,Low,Master's
+EMP1958,Sales,560810,8,Female,No,Average,High School
+EMP1959,IT,368610,13,Male,No,Excellent,PhD
+EMP1960,Finance,839132,1,Female,Yes,Excellent,Diploma
+EMP1961,Marketing,1015422,17,Male,No,Average,Bachalor's
+EMP1962,HR,550818,14,Female,No,Excellent,PhD
+EMP1963,Sales,103123,24,Female,Yes,Excellent,Bachalor's
+EMP1964,Operations,966484,6,Male,No,Low,Diploma
+EMP1965,IT,1152390,6,Male,No,Excellent,Diploma
+EMP1966,HR,544354,11,Female,No,Average,High School
+EMP1967,Marketing,380082,2,Female,Yes,High,Master's
+EMP1968,Sales,127672,11,Male,No,Average,PhD
+EMP1969,HR,307344,4,Male,Yes,Low,Bachalor's
+EMP1970,Finance,52045,9,Male,No,High,Diploma
+EMP1971,Finance,399119,22,Male,Yes,Excellent,PhD
+EMP1972,Sales,351063,1,Female,Yes,Average,PhD
+EMP1973,Marketing,258787,14,Female,Yes,Average,PhD
+EMP1974,Marketing,112838,14,Male,Yes,Excellent,Bachalor's
+EMP1975,Operations,358834,5,Female,Yes,Excellent,Master's
+EMP1976,Finance,1026327,8,Male,No,Average,Diploma
+EMP1977,Marketing,435762,5,Female,Yes,High,PhD
+EMP1978,IT,357320,25,Male,No,Low,High School
+EMP1979,Finance,1155793,3,Male,Yes,Low,PhD
+EMP1980,IT,118564,25,Male,No,Average,Bachalor's
+EMP1981,Sales,436302,15,Female,No,Average,PhD
+EMP1982,IT,1037055,7,Female,No,High,Master's
+EMP1983,Operations,882423,0,Female,No,Low,Master's
+EMP1984,Operations,824649,6,Female,Yes,High,Bachalor's
+EMP1985,Finance,303711,6,Female,Yes,High,PhD
+EMP1986,HR,961926,1,Male,No,Average,Master's
+EMP1987,Sales,530838,3,Female,No,Average,High School
+EMP1988,Marketing,219480,1,Male,Yes,Low,Bachalor's
+EMP1989,Finance,301043,18,Male,No,High,Bachalor's
+EMP1990,Finance,64549,20,Male,No,Low,PhD
+EMP1991,Operations,484517,2,Female,Yes,Low,Bachalor's
+EMP1992,Finance,119215,17,Male,Yes,Average,PhD
+EMP1993,Operations,205908,17,Female,Yes,Low,Diploma
+EMP1994,Marketing,768065,13,Male,Yes,High,Master's
+EMP1995,Operations,1163557,13,Female,No,Average,High School
+EMP1996,Finance,445263,16,Female,No,Average,Diploma
+EMP1997,HR,765616,24,Female,No,Average,Master's
+EMP1998,HR,898727,0,Female,No,Excellent,High School
+EMP1999,HR,914232,2,Female,No,Excellent,High School
+EMP2000,HR,880523,24,Male,No,Average,Master's
